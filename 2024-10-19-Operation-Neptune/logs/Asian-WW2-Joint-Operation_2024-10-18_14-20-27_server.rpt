@@ -1,0 +1,410 @@
+21:20:27 SteamAPI initialization failed. Steam features won't be accessible!
+21:20:27 Initializing stats manager.
+sh: 1: /sbin/ifconfig: not found
+21:20:27 Stats config disabled.
+21:20:27 sessionID: 5141134b2e70e7ae307ad75acfac36fec2d08cdb
+21:20:40 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><Original>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><English>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><Russian>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><German>
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: KIF_Radio\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: vet\unflipping\stringtable.xml
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Original>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><English>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Czech>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Russian>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Italian>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Original>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><English>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Czech>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Russian>
+21:20:40 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Italian>
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: z\tfar\addons\external_intercom\stringtable.xml
+21:20:40 Item STR_Globe_CfgVehicles_PortableLongRangeRadioMilitary_RadioChat3 listed twice
+21:20:40  ➥ Context: a3\language_f_expEden\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: a3\language_f_expEden\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: z\ifa3_comp_ace\addons\main\stringtable.xml
+21:20:40 Item STR_LIB_US_infantry_squad listed twice
+21:20:40  ➥ Context: WW2\Assets_c\Characters\Core_c\stringtable.xml
+21:20:40 Item STR_LIB_US_AT_squad listed twice
+21:20:40  ➥ Context: WW2\Assets_c\Characters\Core_c\stringtable.xml
+21:20:40 Item STR_LIB_US_scout_squad listed twice
+21:20:40  ➥ Context: WW2\Assets_c\Characters\Core_c\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: WW2\MissionsWW2_p\WW2_Showcases_p\faction_uk.hyde_sark\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: WW2\Assets_c\Weapons\Misc_c\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: ca\language\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: CUP\Terrains\cup_terrains_compositions\stringtable.xml
+21:20:40 Unsupported language English in stringtable
+21:20:40  ➥ Context: CUP\Terrains\cup_terrains_music\stringtable.xml
+21:20:40 Item str_a3_c_cfgweapons_h_helmethbk_headset_f0 listed twice
+21:20:40  ➥ Context: a3\language_f_enoch\stringtable.xml
+21:20:40 Item str_a3_c_cfgweapons_h_helmethbk_f0 listed twice
+21:20:40  ➥ Context: a3\language_f_enoch\stringtable.xml
+21:20:40 Item str_a3_h_cap_oli_hs0 listed twice
+21:20:40  ➥ Context: a3\language_f_epb\stringtable.xml
+21:20:40 Item str_a3_h_booniehat_khk_hs0 listed twice
+21:20:40  ➥ Context: a3\language_f_epb\stringtable.xml
+21:20:40 Item str_a3_h_bandanna_khk_hs0 listed twice
+21:20:40  ➥ Context: a3\language_f_epb\stringtable.xml
+21:20:40 Conflicting addon simc_uaab_44 in 'simc_uaf_44_ifa3_replats\us_airborne\', previous definition in 'simc_uaf_44_cfg\us_airborne\'
+21:20:40 Conflicting addon simc_uaf_44_34ID in 'simc_uaf_44_divisie\34id_nisei\', previous definition in 'simc_uaf_44_divisie\34id\'
+21:20:41 Conflicting addon WW2_Assets_c_Characters_Americans_c_US_Rangers in 'WW2\Assets_c\Characters\Americans_c\us_rangers\', previous definition in 'simc_uaf_44_ifa3_replats\us_rangers\'
+21:20:45 Skipped loading of addon 'cba_jam_csla' as required addon 'CSLA' is not present
+21:20:45 Skipped loading of addon 'cba_jam_gm' as required addon 'gm_weapons_launchers_carlgustaf' is not present
+21:20:45 Skipped loading of addon 'cba_jam_spe' as required addon 'WW2_SPE_Core_c_ZZZ_LastLoaded_c' is not present
+21:20:45 Skipped loading of addon 'cba_jam_vn' as required addon 'loadorder_f_vietnam' is not present
+21:20:45 Skipped loading of addon 'cba_jam_ws' as required addon 'data_f_lxWS_Loadorder' is not present
+21:20:45 Skipped loading of addon 'cba_xeh_contact' as required addon 'A3_Data_F_Contact' is not present
+21:20:45 Skipped loading of addon 'cba_xeh_csla' as required addon 'CSLA' is not present
+21:20:45 Skipped loading of addon 'cba_xeh_sog' as required addon 'loadorder_f_vietnam' is not present
+21:20:45 Skipped loading of addon 'cba_xeh_ws' as required addon 'data_f_lxWS' is not present
+21:20:46 Skipped loading of addon 'ace_compat_aegis_realisticnames' as required addon 'A3_Aegis_Armor_F_Aegis_APC_Wheeled_01' is not present
+21:20:46 Skipped loading of addon 'ace_compat_aegis_vehicles' as required addon 'A3_Aegis_Armor_F_Aegis_MBT_01' is not present
+21:20:46 Skipped loading of addon 'ace_compat_csla' as required addon 'CSLA' is not present
+21:20:46 Skipped loading of addon 'ace_compat_csla_explosives' as required addon 'CSLA' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_units' as required addon 'CUP_Creatures_People_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_units_nouniformrestrictions' as required addon 'CUP_Creatures_People_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_vehicles' as required addon 'CUP_Vehicles_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_vehicles_repair' as required addon 'CUP_Vehicles_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_vehicles_trenches' as required addon 'CUP_Vehicles_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_vehicles_fastroping' as required addon 'CUP_Vehicles_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_vehicles_refuel' as required addon 'CUP_Vehicles_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_weapons' as required addon 'CUP_Weapons_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_weapons_csw' as required addon 'CUP_Weapons_loadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_weapons_explosives' as required addon 'CUP_Weapons_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_weapons_javelin' as required addon 'CUP_Weapons_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_cup_weapons_nightvision' as required addon 'CUP_Weapons_LoadOrder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_gm' as required addon 'gm_core' is not present
+21:20:46 Skipped loading of addon 'ace_compat_gm_explosives' as required addon 'gm_core' is not present
+21:20:46 Skipped loading of addon 'ace_compat_gm_refuel' as required addon 'gm_core' is not present
+21:20:46 Skipped loading of addon 'ace_compat_gm_repair' as required addon 'gm_core' is not present
+21:20:46 Skipped loading of addon 'ace_compat_gm_trenches' as required addon 'gm_core' is not present
+21:20:46 Skipped loading of addon 'ace_compat_r3f' as required addon 'r3f_armes_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rf' as required addon 'RF_Data_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rf_nouniformrestrictions' as required addon 'RF_Data_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rf_realisticnames' as required addon 'RF_Data_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rh_acc' as required addon 'RH_acc' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rh_de' as required addon 'RH_de_cfg' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rh_m4' as required addon 'RH_m4_cfg' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rh_pdw' as required addon 'RH_PDW' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_arsenal' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_csw' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_explosives' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_fastroping' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_hearing' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_nightvision' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_refuel' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_repair' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_afrf3_scopes' as required addon 'rhs_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_gref3' as required addon 'rhsgref_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_gref3_csw' as required addon 'rhsgref_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_gref3_explosives' as required addon 'rhsgref_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_gref3_fastroping' as required addon 'rhsgref_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_saf3' as required addon 'rhssaf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_saf3_explosives' as required addon 'rhssaf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_arsenal' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_csw' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_explosives' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_fastroping' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_hearing' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_hellfire' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_javelin' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_nightvision' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_refuel' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_repair' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_scopes' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rhs_usf3_trenches' as required addon 'rhsusf_main_loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_rksl_pm_ii' as required addon 'RKSL_PMII' is not present
+21:20:46 Skipped loading of addon 'ace_compat_sma3_iansky' as required addon 'iansky_opt' is not present
+21:20:46 Skipped loading of addon 'ace_compat_sog' as required addon 'loadorder_f_vietnam' is not present
+21:20:46 Skipped loading of addon 'ace_compat_sog_refuel' as required addon 'loadorder_f_vietnam' is not present
+21:20:46 Skipped loading of addon 'ace_compat_sog_repair' as required addon 'loadorder_f_vietnam' is not present
+21:20:46 Skipped loading of addon 'ace_compat_sog_trenches' as required addon 'loadorder_f_vietnam' is not present
+21:20:46 Skipped loading of addon 'ace_compat_sog_trenches_grad' as required addon 'loadorder_f_vietnam' is not present
+21:20:46 Skipped loading of addon 'ace_compat_spe' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_spe_csw' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_spe_explosives' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_spe_refuel' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_spe_repair' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_spe_trenches' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+21:20:46 Skipped loading of addon 'ace_compat_ws' as required addon 'data_f_lxWS_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_ws_nouniformrestrictions' as required addon 'data_f_lxWS_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_ws_realisticnames' as required addon 'data_f_lxWS_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_ws_repair' as required addon 'data_f_lxWS_Loadorder' is not present
+21:20:46 Skipped loading of addon 'ace_compat_ws_vehicles' as required addon 'data_f_lxWS_Loadorder' is not present
+21:20:46 Updating base class ScrollBar->, by Perceptive\config.bin/RscCombo/ComboScrollBar/ (original Perceptive\config.bin)
+21:20:46 Updating base class ScrollBar->, by Perceptive\config.bin/RscListBox/ListScrollBar/ (original Perceptive\config.bin)
+21:20:46 Updating base class ScrollBar->, by Perceptive\config.bin/RscControlsGroup/VScrollbar/ (original bin\config.bin)
+21:20:46 Updating base class ScrollBar->, by Perceptive\config.bin/RscControlsGroup/HScrollbar/ (original bin\config.bin)
+21:20:46 Updating base class sab_nl_artillery_cannon_base->sab_nl_air_cannon_base, by sab_nl_akagi\config.bin/cfgWeapons/sab_nl_artillery_twincannon_base/ (original sab_navallegends\config.bin)
+21:20:46 Updating base class MGun->sab_nl_air_cannon_base, by sab_nl_arkroyal\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original sab_navallegends\config.bin)
+21:20:46 Updating base class sab_nl_air_cannon_base->MGun, by sab_nl_cleveland\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class MGun->sab_nl_air_cannon_base, by sab_nl_dido\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class sab_nl_air_cannon_base->sab_nl_artillery_cannon_base, by sab_nl_enterprise\config.bin/cfgWeapons/sab_nl_artillery_twincannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class sab_nl_artillery_cannon_base->sab_nl_air_cannon_base, by sab_nl_fubuki\config.bin/cfgWeapons/sab_nl_artillery_twincannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class sab_nl_air_cannon_base->MGun, by sab_nl_fubuki\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class MGun->sab_nl_air_cannon_base, by sab_nl_hood\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class sab_nl_air_cannon_base->MGun, by sab_nl_sims\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class MGun->sab_nl_air_cannon_base, by sab_nl_zara\config.bin/cfgWeapons/sab_nl_antiair_heavy_cannon_base/ (original (sab_navallegends\config.bin - no unload))
+21:20:46 Updating base class ->B_AssaultPack_rgr, by simc_uaf_44_cfg\us_army\gear\config.bin/CfgVehicles/B_simc_pack/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class ->SensorTemplatePassiveRadar, by a3\data_f\config.bin/SensorTemplateAntiRadiation/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->SensorTemplateAntiRadiation, by a3\data_f\config.bin/SensorTemplateActiveRadar/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->SensorTemplateAntiRadiation, by a3\data_f\config.bin/SensorTemplateIR/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->SensorTemplateIR, by a3\data_f\config.bin/SensorTemplateVisual/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->SensorTemplateIR, by a3\data_f\config.bin/SensorTemplateMan/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->SensorTemplateAntiRadiation, by a3\data_f\config.bin/SensorTemplateLaser/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->SensorTemplateLaser, by a3\data_f\config.bin/SensorTemplateNV/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->Strategic, by a3\data_f\config.bin/CfgVehicles/StaticShip/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->NonStrategic, by a3\data_f\config.bin/CfgVehicles/HouseBase/ (original a3\data_f\config.bin)
+21:20:46 Updating base class ->DestructionEffects, by a3\data_f\config.bin/CfgVehicles/House/DestructionEffects/ (original a3\data_f\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/ (original bin\config.bin)
+21:20:46 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/ (original bin\config.bin)
+21:20:46 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/ (original bin\config.bin)
+21:20:46 Updating base class ->House_F, by a3\structures_f\ind\airport\config.bin/CfgVehicles/Land_Hangar_F/ (original a3\structures_f\ind\airport\config.bin)
+21:20:46 Updating base class ->EtelkaMonospacePro, by a3\uifonts_f\config.bin/CfgFontFamilies/EtelkaMonospaceProBold/ (original ca\uifonts\config.bin)
+21:20:46 Updating base class ->simc_Marine_base, by simc_mc_44\config.bin/CfgVehicles/simc_Marine_1/ (original simc_mc_44\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Private_1st/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Corp/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Sergant/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Snipe/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Eng/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Med/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class U_Simc_US_m43_Private->U_Simc_BasicBody, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/U_Simc_US_M43_Cap/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class H_Simc_M1_Helmet_ns_2->H_Simc_M1_Helmet_ns, by simc_uaf_44_cfg\frozen\config.bin/CfgWeapons/H_Simc_M1_Helmet_med_ns/ (original simc_uaf_44_cfg\us_army\gear\config.bin)
+21:20:46 Updating base class ->ScrollBar, by a3\ui_f\config.bin/RscControlsGroup/VScrollbar/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->ScrollBar, by a3\ui_f\config.bin/RscControlsGroup/HScrollbar/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->ScrollBar, by a3\ui_f\config.bin/RscListBox/ListScrollBar/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->ScrollBar, by a3\ui_f\config.bin/RscCombo/ComboScrollBar/ (original Perceptive\config.bin)
+21:20:46 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/ (original bin\config.bin)
+21:20:46 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/ (original bin\config.bin)
+21:20:46 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/ (original bin\config.bin)
+21:20:46 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/ (original a3\ui_f\config.bin)
+21:20:46 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/OverviewGroup/ (original bin\config.bin)
+21:20:46 Updating base class RscButton->RscButtonSearch, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/SearchButton/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonCancel/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonGameOptions/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenuSteam, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonBuyDLC/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonRevert/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonOK/ (original bin\config.bin)
+21:20:46 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/ (original bin\config.bin)
+21:20:46 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/ (original bin\config.bin)
+21:20:46 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/ (original bin\config.bin)
+21:20:46 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/ (original bin\config.bin)
+21:20:46 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/Controls/ButtonCancel/ (original bin\config.bin)
+21:20:46 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+21:20:46 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/ (original bin\config.bin)
+21:20:46 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/ (original bin\config.bin)
+21:20:46 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/ (original bin\config.bin)
+21:20:46 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/ (original bin\config.bin)
+21:20:46 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/ (original bin\config.bin)
+21:20:46 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/ (original bin\config.bin)
+21:20:46 Updating base class ->BulletBase, by a3\weapons_f\config.bin/CfgAmmo/B_127x99_Ball/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->ShellBase, by a3\weapons_f\config.bin/CfgAmmo/Sh_120mm_HE/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->ammo_Bomb_LaserGuidedBase, by a3\weapons_f\config.bin/CfgAmmo/Bo_GBU12_LGB/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->CA_Magazine, by a3\weapons_f\config.bin/CfgMagazines/VehicleMagazine/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->WeaponHolder, by a3\weapons_f\config.bin/CfgVehicles/Item_Base_F/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->WeaponHolder, by a3\weapons_f\config.bin/CfgVehicles/Headgear_Base_F/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->SlotInfo, by a3\weapons_f\config.bin/CowsSlot/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->SlotInfo, by a3\weapons_f\config.bin/PointerSlot/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->SlotInfo, by a3\weapons_f\config.bin/UnderBarrelSlot/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->weapon_LGBLauncherBase, by a3\weapons_f\config.bin/CfgWeapons/GBU12BombLauncher/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->GrenadeLauncher, by a3\weapons_f\config.bin/CfgWeapons/UGL_F/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->Rifle, by a3\weapons_f\config.bin/CfgWeapons/Rifle_Base_F/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->Pistol, by a3\weapons_f\config.bin/CfgWeapons/Pistol_Base_F/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->Default, by a3\weapons_f\config.bin/CfgWeapons/ItemCore/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->Binocular, by a3\weapons_f\config.bin/CfgWeapons/NVGoggles/ (original a3\weapons_f\config.bin)
+21:20:46 Updating base class ->ThingX, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/ReammoBox_F/ (original a3\weapons_f\ammoboxes\config.bin)
+21:20:46 Updating base class ->B_AssaultPack_Base, by a3\weapons_f\ammoboxes\config.bin/CfgVehicles/B_AssaultPack_rgr/ (original a3\weapons_f\ammoboxes\config.bin)
+21:20:46 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/InventoryMuzzleItem_Base_F/ (original a3\weapons_f\items\config.bin)
+21:20:46 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/InventoryOpticsItem_Base_F/ (original a3\weapons_f\items\config.bin)
+21:20:46 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/UniformItem/ (original a3\weapons_f\items\config.bin)
+21:20:46 Updating base class ->InventoryItem_Base_F, by a3\weapons_f\items\config.bin/CfgWeapons/VestItem/ (original a3\weapons_f\items\config.bin)
+21:20:46 Updating base class ->Pistol_Base_F, by a3\weapons_f\pistols\p07\config.bin/CfgWeapons/hgun_P07_F/ (original a3\weapons_f\pistols\p07\config.bin)
+21:20:46 Updating base class ->Pistol_Base_F, by WBK_knifes\config.bin/CfgWeapons/Weap_melee_knife/ (original WBK_knifes\config.bin)
+21:20:46 Updating base class ->Weap_melee_knife, by WBK_knifes\config.bin/CfgWeapons/Knife_m3/ (original WBK_knifes\config.bin)
+21:20:46 Updating base class ->ItemCore, by WebKnight_Melee_New_weapons\config.bin/CfgWeapons/Vest_Camo_Base/ (original WebKnight_Melee_New_weapons\config.bin)
+21:20:46 Updating base class ->Pistol_Base_F, by WebKnight_Melee_Weapons\config.bin/CfgWeapons/WBK_pipeStyledSword/ (original WebKnight_Melee_Weapons\config.bin)
+21:20:46 Updating base class ->HitFace, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitNeck/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitNeck, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitHead/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitHead, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitPelvis/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitPelvis, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitAbdomen/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitAbdomen, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitDiaphragm/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitDiaphragm, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitChest/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitChest, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitBody/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitBody, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitArms/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitArms, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitHands/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HitHands, by a3\characters_f\config.bin/CfgVehicles/CAManBase/HitPoints/HitLegs/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->C_man_1, by a3\characters_f\config.bin/CfgVehicles/C_man_pilot_F/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->ItemCore, by a3\characters_f\config.bin/CfgWeapons/Uniform_Base/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->UniformItem, by a3\characters_f\config.bin/CfgWeapons/U_BasicBody/ItemInfo/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->VestItem, by a3\characters_f\config.bin/CfgWeapons/Vest_Camo_Base/ItemInfo/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->InventoryItem_Base_F, by a3\characters_f\config.bin/CfgWeapons/HeadgearItem/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->HeadgearItem, by a3\characters_f\config.bin/CfgWeapons/H_HelmetB/ItemInfo/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ItemCore->HelmetBase, by a3\characters_f\config.bin/CfgWeapons/H_Booniehat_khk/ (original (simc_mc_51_cfg\config.bin - no unload))
+21:20:46 Updating base class ->ItemInfo, by a3\characters_f\config.bin/CfgWeapons/H_Booniehat_khk/ItemInfo/ (original a3\characters_f\config.bin)
+21:20:46 Updating base class ->All, by a3\sounds_f\config.bin/CfgVehicles/Sound/ (original a3\sounds_f\config.bin)
+21:20:46 Updating base class Turrets->Turrets, by a3\static_f\config.bin/CfgVehicles/StaticAAWeapon/Turrets/ (original (sab_nl_enterprise\config.bin - no unload))
+21:20:46 Updating base class ->MainTurret, by a3\static_f\config.bin/CfgVehicles/StaticAAWeapon/Turrets/MainTurret/ (original a3\static_f\config.bin)
+21:20:46 Updating base class ZavoraAnim->House, by ca\buildings_c\misc\config.bin/CfgVehicles/Land_zavora/ (original ca\buildings_c\config.bin)
+21:20:46 Updating base class ZavoraAnim->Land_zavora_2, by ca\buildings_c\misc\config.bin/CfgVehicles/Land_zavora_2_a1/ (original ca\buildings_c\config.bin)
+21:20:46 Updating base class ->SDV_01_base_F, by a3\boat_f_beta\sdv_01\config.bin/CfgVehicles/B_SDV_01_F/ (original a3\boat_f_beta\sdv_01\config.bin)
+21:20:46 Updating base class OpenGate->, by ca\misc3_c\config.bin/CfgVehicles/ZavoraAnim/UserActions/CloseGate/ (original ca\buildings_c\config.bin)
+21:20:46 Updating base class TargetTraining->TargetGrenadBase, by ca\misc3_c\config.bin/CfgVehicles/TargetGrenade/ (original ca\misc3_c\config.bin)
+21:20:47 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStatic/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlActiveText, by a3\3den\config.bin/ctrlActivePicture/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStructuredText/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlControlsGroup, by a3\3den\config.bin/ctrlControlsGroupNoScrollbars/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlDefault, by a3\3den\config.bin/ctrlCheckbox/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlCheckbox, by a3\3den\config.bin/ctrlCheckboxBaseline/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+21:20:47 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+21:20:47 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/ (original a3\ui_f\config.bin)
+21:20:47 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/ (original a3\ui_f\config.bin)
+21:20:47 Updating base class ->ctrlControlsGroupNoScrollbars, by a3\3den\config.bin/Cfg3DEN/Attributes/Default/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlStatic, by a3\3den\config.bin/Cfg3DEN/Attributes/Title/Controls/Title/ (original a3\3den\config.bin)
+21:20:47 Updating base class ->ctrlToolbox, by a3\3den\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/Value/ (original a3\3den\config.bin)
+21:20:49 Updating base class ->V_Plain_base_F, by a3\characters_f_orange\vests\config.bin/CfgWeapons/V_Plain_medical_F/ (original a3\characters_f_orange\vests\config.bin)
+21:20:49 Updating base class Mod_Base->, by a3\data_f_destroyer\config.bin/CfgMods/Jets/ (original a3\data_f_jets\config.bin)
+21:20:49 Updating base class ScrollBar->ScrollBar, by WW2\MissionsWW2_p\WW2_Gamemodes_SearchAndDestroy_p\config.cpp/RscListNBox/ListScrollBar/ (original (no unload))
+21:20:54 Updating base class ->CBA_Extended_EventHandlers_base, by x\cba\addons\xeh\config.bin/CBA_Extended_EventHandlers/ (original x\cba\addons\xeh\config.bin)
+21:20:54 Updating base class Default->, by a3\expEden\characters\config.bin/CfgFaces/Man_A3/Miller/ (original a3\characters_f\heads\config.bin)
+21:20:54 Updating base class Default->, by a3\expEden\characters\config.bin/CfgFaces/Man_A3/IG_Leader/ (original a3\characters_f\heads\config.bin)
+21:20:55 Updating base class Vest_Camo_Base->Vest_NoCamo_Base, by a3\expEden\characters\vests\config.bin/CfgWeapons/V_Chestrig_oli/ (original a3\characters_f\config.bin)
+21:20:55 Updating base class ->EventHandlers, by A3\expEden\scripts\config.bin/CfgVehicles/ParachuteBase/Eventhandlers/ (original x\cba\addons\xeh\config.bin)
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Config array append with unsupported value type
+21:20:55 Updating base class ->CfgEnvSpatialSounds, by A3\expEden\scripts\config.bin/CfgWorlds/CAWorld/EnvSounds/CfgEnvSpatialSounds/ (original CUP\Terrains\cup_terrains_worlds\envsounds\config.bin)
+21:20:55 Updating base class CfgEnvSounds->EnvSounds, by A3\expEden\scripts\config.bin/CfgWorlds/Enoch/EnvSounds/ (original a3\sounds_f_enoch\config.bin)
+21:20:55 Updating base class CfgEnvSpatialSounds->CfgEnvSpatialSounds, by A3\expEden\scripts\config.bin/CfgWorlds/Enoch/EnvSounds/CfgEnvSpatialSounds/ (original a3\sounds_f_enoch\config.bin)
+21:20:55 Updating base class EventHandlers->EventHandlers, by a3\expEden_animals_f\dog\config.bin/CfgVehicles/Fin_random_F/EventHandlers/ (original a3\animals_f_beta\dog\config.bin)
+21:20:55 Updating base class EventHandlers->EventHandlers, by a3\expEden_animals_f\dog\config.bin/CfgVehicles/Alsatian_Random_F/EventHandlers/ (original a3\animals_f_beta\dog\config.bin)
+21:20:55 Updating base class ->EventHandlers, by a3\expEden_animals_f\snakes\config.bin/CfgVehicles/Snake_vipera_random_F/EventHandlers/ (original x\cba\addons\xeh\config.bin)
+21:20:55 Updating base class Land_MapBoard_F->Land_WhiteBoard_Orange_F, by a3\props_f_globe\civilian\infoboards\config.bin/CfgVehicles/Land_WhiteBoard_Orange_random_F/ (original A3\expEden\config.bin)
+21:20:55 Updating base class ->Roads_Base, by a3\structures_f_globe\decals\horizontal\config.bin/CfgVehicles/Road_City_Base/ (original a3\structures_f_globe\decals\horizontal\config.bin)
+21:20:55 Updating base class ->Runway_01_Base, by a3\structures_f_globe\decals\horizontal\config.bin/CfgVehicles/Runway_01/ (original a3\structures_f_globe\decals\horizontal\config.bin)
+21:20:55 Updating base class ->Deflector_2, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_04_1_F/AnimationSources/Deflector_2_hydraulic_1/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_2, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_04_1_F/AnimationSources/Deflector_2_hydraulic_2/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_2, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_04_1_F/AnimationSources/Deflector_2_hydraulic_3/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_1, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_04_2_F/AnimationSources/Deflector_1_hydraulic_1/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_1, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_04_2_F/AnimationSources/Deflector_1_hydraulic_2/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_1, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_04_2_F/AnimationSources/Deflector_1_hydraulic_3/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_3_hydraulic_1/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_3_hydraulic_2/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_3_hydraulic_3/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_4/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_4_hydraulic_1/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_4_hydraulic_2/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class ->Deflector_3, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_07_1_F/AnimationSources/Deflector_4_hydraulic_3/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class Land_Carrier_01_hull_01_F->Land_Carrier_01_hull_base_F, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_08_1_F/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class Land_Carrier_01_hull_01_F->Land_Carrier_01_hull_base_F, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_08_2_F/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class Land_Carrier_01_hull_01_F->Land_Carrier_01_hull_base_F, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_09_1_F/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class Land_Carrier_01_hull_01_F->Land_Carrier_01_hull_base_F, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_hull_09_2_F/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class Land_Carrier_01_island_01_F->Land_Carrier_01_hull_01_F, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_island_02_F/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class Land_Carrier_01_island_01_F->Land_Carrier_01_hull_01_F, by a3\structures_f_globe\military\boats\config.bin/CfgVehicles/Land_Carrier_01_island_03_F/ (original a3\boat_f_jets\carrier_01\config.bin)
+21:20:55 Updating base class NonStrategic->Helper_Base_F, by a3\structures_f_globe\vr\helpers\config.bin/CfgVehicles/Sphere_3DEN/ (original a3\3den\config.bin)
+21:20:57 Updating base class Sound->, by fow\fow_structures_e_c\config.cpp/cfgVehicles/Sound_Flies/ (original ca\sounds_c\config.bin)
+21:20:58 Updating base class fow_50Rnd_792x57->VehicleMagazine, by IFA3_FOW_COMPAT\\main\config.cpp/CfgMagazines/fow_250Rnd_792x57/ (original (no unload))
+21:20:58 Updating base class fow_rifle_base->Pistol_Base_F, by IFA3_FOW_COMPAT\\main\config.cpp/cfgWeapons/fow_w_fg42/ (original (no unload))
+21:20:58 Updating base class fow_v_gmc->Truck_F, by IFA3_FOW_COMPAT\\main\config.cpp/CfgVehicles/fow_v_gmc_usa/ (original (no unload))
+21:20:58 Updating base class DefaultLighting->DefaultLighting, by WW2\TerrainsIF_c\Worlds\IF_Core_c\enochlighting\config.bin/CfgWorlds/Altis/Lighting/ (original a3\map_altis\config.bin)
+21:20:58 Cannot delete class SpotlightPrev, it is referenced somewhere (used as a base class probably).
+21:20:58 Updating base class CannonCore->autocannon_Base_F, by fow\fow_veh_weapons_c\config.cpp/cfgWeapons/fow_w_20mm_kwk38/ (original (no unload))
+21:20:58 Updating base class Simc_US_M42_base->Simc_US_M42_rifleman, by simc_uaf_44_divisie\uaab_82d\config.bin/CfgVehicles/Simc_US_M42_CO/ (original simc_uaf_44_cfg\us_airborne\config.bin)
+21:20:59 Updating base class ACE_SelfActions->, by z\ace\addons\interaction\config.bin/CfgVehicles/Tank/ACE_SelfActions/ (original z\tfar\addons\core\config.bin)
+21:20:59 Updating base class ACE_SelfActions->, by z\ace\addons\interaction\config.bin/CfgVehicles/Helicopter/ACE_SelfActions/ (original z\tfar\addons\core\intercomconfig\config.bin)
+21:20:59 Updating base class ACE_SelfActions->, by z\ace\addons\interaction\config.bin/CfgVehicles/Plane/ACE_SelfActions/ (original z\tfar\addons\core\intercomconfig\config.bin)

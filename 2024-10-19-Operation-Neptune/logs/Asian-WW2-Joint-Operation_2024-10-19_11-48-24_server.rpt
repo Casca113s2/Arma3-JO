@@ -1,0 +1,60 @@
+18:48:24 SteamAPI initialization failed. Steam features won't be accessible!
+18:48:24 Initializing stats manager.
+sh: 1: /sbin/ifconfig: not found
+18:48:24 Stats config disabled.
+18:48:24 sessionID: ee3bc967e848540f71a4f9b8f2b9e5bda57e1f5e
+18:48:32 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><Original>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><English>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><Russian>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_KIF_RADIO_MODUL_DESCRIPTION"><German>
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: KIF_Radio\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: vet\unflipping\stringtable.xml
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Original>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><English>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Czech>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Russian>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Italian>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Original>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><English>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Czech>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Russian>
+18:48:32 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Italian>
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: z\tfar\addons\external_intercom\stringtable.xml
+18:48:32 Item STR_Globe_CfgVehicles_PortableLongRangeRadioMilitary_RadioChat3 listed twice
+18:48:32  ➥ Context: a3\language_f_expEden\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: a3\language_f_expEden\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: z\ifa3_comp_ace\addons\main\stringtable.xml
+18:48:32 Item STR_LIB_US_infantry_squad listed twice
+18:48:32  ➥ Context: WW2\Assets_c\Characters\Core_c\stringtable.xml
+18:48:32 Item STR_LIB_US_AT_squad listed twice
+18:48:32  ➥ Context: WW2\Assets_c\Characters\Core_c\stringtable.xml
+18:48:32 Item STR_LIB_US_scout_squad listed twice
+18:48:32  ➥ Context: WW2\Assets_c\Characters\Core_c\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: WW2\MissionsWW2_p\WW2_Showcases_p\faction_uk.hyde_sark\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: WW2\Assets_c\Weapons\Misc_c\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: ca\language\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: CUP\Terrains\cup_terrains_compositions\stringtable.xml
+18:48:32 Unsupported language English in stringtable
+18:48:32  ➥ Context: CUP\Terrains\cup_terrains_music\stringtable.xml
+18:48:32 Item str_a3_c_cfgweapons_h_helmethbk_headset_f0 listed twice
+18:48:32  ➥ Context: a3\language_f_enoch\stringtable.xml
+18:48:32 Item str_a3_c_cfgweapons_h_helmethbk_f0 listed twice
+18:48:32  ➥ Context: a3\language_f_enoch\stringtable.xml
+18:48:32 Item str_a3_h_cap_oli_hs0 listed twice
+18:48:32  ➥ Context: a3\language_f_epb\stringtable.xml
+18:48:32 Item str_a3_h_booniehat_khk_hs0 listed twice
+18:48:32  ➥ Context: a3\language_f_epb\stringtable.xml
+18:48:32 Item str_a3_h_bandanna_khk_hs0 listed twice
+18:48:32  ➥ Context: a3\language_f_epb\stringtable.xml
+18:48:32 Conflicting addon simc_uaab_44 in 'simc_uaf_44_ifa3_replats\us_airborne\', previous definition in 'simc_uaf_44_cfg\us_airborne\'
+18:48:32 Conflicting addon simc_uaf_44_34ID in 'simc_uaf_44_divisie\34id_nisei\', previous definition in 'simc_uaf_44_divisie\34id\'
+18:48:32 Conflicting addon WW2_Assets_c_Characters_Americans_c_US_Rangers in 'WW2\Assets_c\Characters\Americans_c\us_rangers\', previous definition in 'simc_uaf_44_ifa3_replats\us_rangers\'
