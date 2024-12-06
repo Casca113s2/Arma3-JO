@@ -1,0 +1,1654 @@
+18:01:10 SteamAPI initialization failed. Steam features won't be accessible!
+18:01:11 Initializing stats manager.
+sh: 1: /sbin/ifconfig: not found
+18:01:11 Stats config disabled.
+18:01:11 sessionID: 50031ee10327977888bf823cdd09a842d19f7b5f
+18:01:17 Unexpected stringtable format inside <Text ID="STR_zhc_Main_Author"><English>
+18:01:17 Unsupported language English in stringtable
+18:01:17  ➥ Context: t\zhc\addons\main\stringtable.xml
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Original>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><English>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Czech>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Russian>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Italian>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Original>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><English>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Czech>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Russian>
+18:01:17 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Italian>
+18:01:17 Unsupported language English in stringtable
+18:01:17  ➥ Context: z\tfar\addons\external_intercom\stringtable.xml
+18:01:17 Unsupported language English in stringtable
+18:01:17  ➥ Context: rhsafrf\addons\rhs_main\stringtable.xml
+18:01:17 Unsupported language English in stringtable
+18:01:17  ➥ Context: gjb_itn\addons\gjb_itn_core\stringtable.xml
+18:01:17 Unsupported language English in stringtable
+18:01:17  ➥ Context: CHVD\stringtable.xml
+18:01:18 Conflicting addon ACM_O_LIV_RHS_Vehicles in 'acm_o_liv_rhs\vehicles\mi24\', previous definition in 'acm_o_liv_rhs\vehicles\btr\'
+18:01:18 Conflicting addon ACM_O_LIV_RHS_Vehicles in 'acm_o_liv_rhs\vehicles\gaz\', previous definition in 'acm_o_liv_rhs\vehicles\btr\'
+18:01:18 Conflicting addon ACM_O_LIV_RHS_Vehicles in 'acm_o_liv_rhs\vehicles\mi8\', previous definition in 'acm_o_liv_rhs\vehicles\btr\'
+18:01:18 Conflicting addon ACM_O_LIV_RHS_Vehicles in 'acm_o_liv_rhs\vehicles\miscvehicles\', previous definition in 'acm_o_liv_rhs\vehicles\btr\'
+18:01:18 Conflicting addon ACM_O_LIV_RHS_Vehicles in 'acm_o_liv_rhs\vehicles\t15\', previous definition in 'acm_o_liv_rhs\vehicles\btr\'
+18:01:20 Skipped loading of addon 'lambs_rpgCUP' as required addon 'CUP_Weapons_WeaponsData' is not present
+18:01:20 Skipped loading of addon 'lambs_rpgSOG' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'cba_jam_csla' as required addon 'CSLA' is not present
+18:01:20 Skipped loading of addon 'cba_jam_gm' as required addon 'gm_weapons_launchers_carlgustaf' is not present
+18:01:20 Skipped loading of addon 'cba_jam_spe' as required addon 'WW2_SPE_Core_c_ZZZ_LastLoaded_c' is not present
+18:01:20 Skipped loading of addon 'cba_jam_vn' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'cba_jam_ws' as required addon 'data_f_lxWS_Loadorder' is not present
+18:01:20 Skipped loading of addon 'cba_xeh_contact' as required addon 'A3_Data_F_Contact' is not present
+18:01:20 Skipped loading of addon 'cba_xeh_csla' as required addon 'CSLA' is not present
+18:01:20 Skipped loading of addon 'cba_xeh_sog' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'cba_xeh_ws' as required addon 'data_f_lxWS' is not present
+18:01:20 Skipped loading of addon 'ace_compat_aegis_realisticnames' as required addon 'A3_Aegis_Armor_F_Aegis_APC_Wheeled_01' is not present
+18:01:20 Skipped loading of addon 'ace_compat_aegis_vehicles' as required addon 'A3_Aegis_Armor_F_Aegis_MBT_01' is not present
+18:01:20 Skipped loading of addon 'ace_compat_csla' as required addon 'CSLA' is not present
+18:01:20 Skipped loading of addon 'ace_compat_csla_explosives' as required addon 'CSLA' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_terrains' as required addon 'CABuildings' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_units' as required addon 'CUP_Creatures_People_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_units_nouniformrestrictions' as required addon 'CUP_Creatures_People_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_vehicles' as required addon 'CUP_Vehicles_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_vehicles_repair' as required addon 'CUP_Vehicles_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_vehicles_trenches' as required addon 'CUP_Vehicles_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_vehicles_fastroping' as required addon 'CUP_Vehicles_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_vehicles_refuel' as required addon 'CUP_Vehicles_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_weapons' as required addon 'CUP_Weapons_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_weapons_csw' as required addon 'CUP_Weapons_loadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_weapons_explosives' as required addon 'CUP_Weapons_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_weapons_javelin' as required addon 'CUP_Weapons_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_cup_weapons_nightvision' as required addon 'CUP_Weapons_LoadOrder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_gm' as required addon 'gm_core' is not present
+18:01:20 Skipped loading of addon 'ace_compat_gm_explosives' as required addon 'gm_core' is not present
+18:01:20 Skipped loading of addon 'ace_compat_gm_refuel' as required addon 'gm_core' is not present
+18:01:20 Skipped loading of addon 'ace_compat_gm_repair' as required addon 'gm_core' is not present
+18:01:20 Skipped loading of addon 'ace_compat_gm_trenches' as required addon 'gm_core' is not present
+18:01:20 Skipped loading of addon 'ace_compat_r3f' as required addon 'r3f_armes_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rf' as required addon 'RF_Data_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rf_nouniformrestrictions' as required addon 'RF_Data_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rf_realisticnames' as required addon 'RF_Data_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rh_acc' as required addon 'RH_acc' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rh_de' as required addon 'RH_de_cfg' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rh_m4' as required addon 'RH_m4_cfg' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rh_pdw' as required addon 'RH_PDW' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rhs_gref3' as required addon 'rhsgref_main_loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rhs_gref3_csw' as required addon 'rhsgref_main_loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rhs_gref3_explosives' as required addon 'rhsgref_main_loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rhs_gref3_fastroping' as required addon 'rhsgref_main_loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rhs_saf3' as required addon 'rhssaf_main_loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rhs_saf3_explosives' as required addon 'rhssaf_main_loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_rksl_pm_ii' as required addon 'RKSL_PMII' is not present
+18:01:20 Skipped loading of addon 'ace_compat_sma3_iansky' as required addon 'iansky_opt' is not present
+18:01:20 Skipped loading of addon 'ace_compat_sog' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'ace_compat_sog_refuel' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'ace_compat_sog_repair' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'ace_compat_sog_trenches' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'ace_compat_sog_trenches_grad' as required addon 'loadorder_f_vietnam' is not present
+18:01:20 Skipped loading of addon 'ace_compat_spe' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_spe_csw' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_spe_explosives' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_spe_refuel' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_spe_repair' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_spe_trenches' as required addon 'ww2_spe_assets_c_weapons_infantryweapons_c' is not present
+18:01:20 Skipped loading of addon 'ace_compat_ws' as required addon 'data_f_lxWS_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_ws_nouniformrestrictions' as required addon 'data_f_lxWS_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_ws_realisticnames' as required addon 'data_f_lxWS_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_ws_repair' as required addon 'data_f_lxWS_Loadorder' is not present
+18:01:20 Skipped loading of addon 'ace_compat_ws_vehicles' as required addon 'data_f_lxWS_Loadorder' is not present
+18:01:20 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayEditObject/Controls/B_OK/ (original bin\config.bin)
+18:01:20 Updating base class RscSliderH->RscXSliderH, by a3\editor_f\config.bin/RscDisplayEditObject/Slider/ (original bin\config.bin)
+18:01:20 Updating base class RscText->RscPicture, by a3\editor_f\config.bin/RscDisplayEditObject/Preview/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionLoad/Controls/B_OK/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButton, by a3\editor_f\config.bin/RscDisplayMissionSave/Controls/B_OK/ (original bin\config.bin)
+18:01:20 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoScrollbars/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoHScrollbars/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscControlsGroup, by a3\ui_f\config.bin/RscControlsGroupNoVScrollbars/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscLine/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscActiveText, by a3\ui_f\config.bin/RscActivePicture/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscButton, by a3\ui_f\config.bin/RscButtonTextOnly/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscShortcutButtonMain/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonEditor/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscIGUIShortcutButton/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscGearShortcutButton/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscShortcutButton, by a3\ui_f\config.bin/RscButtonMenu/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuOK/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuCancel/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscButtonMenu, by a3\ui_f\config.bin/RscButtonMenuSteam/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscLoadingText/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscListBox, by a3\ui_f\config.bin/RscIGUIListBox/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscListNBox, by a3\ui_f\config.bin/RscIGUIListNBox/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackground/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUI/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUILeft/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIRight/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscBackgroundGUIBottom/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUITop/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscBackgroundGUIDark/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/RscBackgroundLogo/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscMapControl, by a3\ui_f\config.bin/RscMapControlEmpty/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPicture, by a3\ui_f\config.bin/CA_Mainback/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Back/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Title_Back/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->CA_Mainback, by a3\ui_f\config.bin/CA_Black_Back/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscTitle, by a3\ui_f\config.bin/CA_Title/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPictureKeepAspect, by a3\ui_f\config.bin/CA_Logo/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->CA_Logo, by a3\ui_f\config.bin/CA_Logo_Small/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscButton, by a3\ui_f\config.bin/CA_RscButton/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->CA_RscButton, by a3\ui_f\config.bin/CA_RscButton_dialog/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscActiveText, by a3\ui_f\config.bin/CA_Ok/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_image2/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/CA_Ok_text/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscPicture, by a3\ui_f\config.bin/RscVignette/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscMapControlTooltip/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscIGUIText/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscOpticsText/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscOpticsText, by a3\ui_f\config.bin/RscOpticsValue/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class ->RscIGUIText, by a3\ui_f\config.bin/RscIGUIValue/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class RscUnitInfo->RscUnitInfoAirNoWeapon, by a3\ui_f\config.bin/RscInGameUI/RscUnitInfoAir/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscInGameUI/RscTaskOverview/controls/TaskOverviewAssigned/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_OK/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Cancel/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayDebug/Controls/B_Clear/ (original bin\config.bin)
+18:01:20 Updating base class ->RscText, by a3\ui_f\config.bin/RscDisplayCapture/controls/TimeLines/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonAverages/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonSavePreviousData/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCapture/controls/ButtonPreviousData/ (original bin\config.bin)
+18:01:20 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/IconPicture/ (original bin\config.bin)
+18:01:20 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcOwnedIconPicture/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class IconPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayMain/DlcIconPicture/ (original a3\ui_f\config.bin)
+18:01:20 Updating base class RscControlsGroup->RscControlsGroupNoScrollbars, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/OverviewGroup/ (original bin\config.bin)
+18:01:20 Updating base class RscButton->RscButtonSearch, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/SearchButton/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonCancel/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonGameOptions/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenuSteam, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonBuyDLC/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenu, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonRevert/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayCampaignLoad/controls/ButtonOK/ (original bin\config.bin)
+18:01:20 Updating base class RscListBox->RscCombo, by a3\ui_f\config.bin/RscDisplayCustomizeController/Steepness/ (original bin\config.bin)
+18:01:20 Updating base class ->RscStandardDisplay, by a3\ui_f\config.bin/RscDisplayControlSchemes/ (original bin\config.bin)
+18:01:20 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonCancel/ (original bin\config.bin)
+18:01:20 Updating base class RscButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayControlSchemes/controls/ButtonOK/ (original bin\config.bin)
+18:01:20 Updating base class RscPicture->RscPictureKeepAspect, by a3\ui_f\config.bin/RscDisplayFileSelectImage/controls/OverviewPicture/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayFieldManual/Controls/ButtonCancel/ (original bin\config.bin)
+18:01:20 Cannot delete class B_KickOff, it is referenced somewhere (used as a base class probably).
+18:01:20 Updating base class RscButton->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMission/controls/ButtonCancel/ (original bin\config.bin)
+18:01:20 Updating base class RscShortcutButton->RscButtonMenuOK, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonOK/ (original bin\config.bin)
+18:01:20 Updating base class ButtonOK->RscButtonMenuCancel, by a3\ui_f\config.bin/RscDisplayPublishMissionSelectTags/controls/ButtonCancel/ (original bin\config.bin)
+18:01:20 Updating base class ->RscSubmenu, by a3\ui_f\config.bin/RscMainMenu/ (original bin\config.bin)
+18:01:20 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceMid/ (original bin\config.bin)
+18:01:20 Updating base class ->DistanceClose, by a3\ui_f\config.bin/CfgSimpleTasks/Icon3D/DistanceLong/ (original bin\config.bin)
+18:01:20 Updating base class ->Plane, by a3\sounds_f\config.bin/CfgVehicles/Plane_Base_F/ (original a3\sounds_f\config.bin)
+18:01:22 Updating base class ->UserActions, by Kimi_HMDs_Helos\config.bin/CfgVehicles/Heli_Transport_01_base_F/UserActions/ (original a3\air_f_beta\heli_transport_01\config.bin)
+18:01:22 Updating base class ->UserActions, by Kimi_HMDs_Helos\config.bin/CfgVehicles/Heli_Transport_03_base_F/UserActions/ (original a3\air_f_heli\heli_transport_03\config.bin)
+18:01:22 Updating base class LowROF->Mode_FullAuto, by Kimi_Weapons_Helos\config.bin/cfgWeapons/M134_minigun/HighROF/ (original a3\weapons_f\config.bin)
+18:01:22 Updating base class close->LowROF, by Kimi_Weapons_Helos\config.bin/cfgWeapons/M134_minigun/medium/ (original a3\weapons_f\config.bin)
+18:01:22 Updating base class close->medium, by Kimi_Weapons_Helos\config.bin/cfgWeapons/M134_minigun/far/ (original a3\weapons_f\config.bin)
+18:01:22 Updating base class Heli_light_03_unarmed_base_F->I_Heli_light_03_unarmed_base_F, by Kimi_Weapons_Helos\config.bin/CfgVehicles/I_Heli_light_03_unarmed_F/ (original (a3\air_f_epb\heli_light_03\config.bin - no unload))
+18:01:22 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStatic/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlActiveText, by a3\3den\config.bin/ctrlActivePicture/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlDefaultText, by a3\3den\config.bin/ctrlStructuredText/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlControlsGroup, by a3\3den\config.bin/ctrlControlsGroupNoScrollbars/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlDefault, by a3\3den\config.bin/ctrlCheckbox/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlCheckbox, by a3\3den\config.bin/ctrlCheckboxBaseline/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayOptionsAudio/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigure/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureAction/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayConfigureControllers/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisable, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisable/ (original a3\3den\config.bin)
+18:01:22 Updating base class RscText->ctrlStaticBackgroundDisableTiles, by a3\3den\config.bin/RscDisplayGameOptions/ControlsBackground/BackgroundDisableTiles/ (original a3\3den\config.bin)
+18:01:22 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_2/Controls/ (original a3\ui_f\config.bin)
+18:01:22 Updating base class controls->, by a3\3den\config.bin/RscDisplayArcadeMap_Layout_6/Controls/ (original a3\ui_f\config.bin)
+18:01:22 Updating base class ->ctrlControlsGroupNoScrollbars, by a3\3den\config.bin/Cfg3DEN/Attributes/Default/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlStatic, by a3\3den\config.bin/Cfg3DEN/Attributes/Title/Controls/Title/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ctrlToolbox, by a3\3den\config.bin/Cfg3DEN/Attributes/Toolbox/Controls/Value/ (original a3\3den\config.bin)
+18:01:22 Updating base class ->ReammoBox_F, by a3\supplies_f_exp\ammoboxes\config.bin/CfgVehicles/Box_NATO_Equip_F/ (original a3\supplies_f_exp\ammoboxes\config.bin)
+18:01:23 Updating base class ->ExploAmmoExplosion, by MG8\ASBE\config.cpp/HEShellExplosion/ (original a3\data_f\particleeffects\config.bin)
+18:01:23 Updating base class Mod_Base->, by a3\data_f_destroyer\config.bin/CfgMods/Jets/ (original a3\data_f_jets\config.bin)
+18:01:23 Updating base class ->Offroad_01_military_base_F, by a3\soft_f_enoch\offroad_01\config.bin/CfgVehicles/I_E_Offroad_01_F/ (original a3\soft_f_enoch\offroad_01\config.bin)
+18:01:23 Updating base class ->Offroad_01_military_covered_base_F, by a3\soft_f_enoch\offroad_01\config.bin/CfgVehicles/I_E_Offroad_01_covered_F/ (original a3\soft_f_enoch\offroad_01\config.bin)
+18:01:23 Updating base class ->Offroad_01_military_comms_base_F, by a3\soft_f_enoch\offroad_01\config.bin/CfgVehicles/I_E_Offroad_01_comms_F/ (original a3\soft_f_enoch\offroad_01\config.bin)
+18:01:23 Updating base class ->Truck_02_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Truck_02_transport_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_transport_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Truck_02_fuel_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_fuel_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Truck_02_Ammo_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_Ammo_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Truck_02_box_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_Box_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Truck_02_medical_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_Medical_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Truck_02_MRL_base_F, by a3\soft_f_enoch\truck_02\config.bin/CfgVehicles/I_E_Truck_02_MRL_F/ (original a3\soft_f_enoch\truck_02\config.bin)
+18:01:23 Updating base class ->Van_02_vehicle_base_F, by a3\soft_f_enoch\van_02\config.bin/CfgVehicles/I_E_Van_02_vehicle_F/ (original a3\soft_f_enoch\van_02\config.bin)
+18:01:23 Updating base class ->Van_02_transport_base_F, by a3\soft_f_enoch\van_02\config.bin/CfgVehicles/I_E_Van_02_transport_F/ (original a3\soft_f_enoch\van_02\config.bin)
+18:01:23 Updating base class ->Van_02_transport_base_F, by a3\soft_f_enoch\van_02\config.bin/CfgVehicles/I_E_Van_02_transport_MP_F/ (original a3\soft_f_enoch\van_02\config.bin)
+18:01:23 Updating base class ->Van_02_medevac_base_F, by a3\soft_f_enoch\van_02\config.bin/CfgVehicles/I_E_Van_02_medevac_F/ (original a3\soft_f_enoch\van_02\config.bin)
+18:01:23 Updating base class ->Reflector_Base_F, by a3\structures_f_enoch\vr\helpers\config.bin/CfgVehicles/Reflector_Cone_01_base_F/ (original a3\structures_f_enoch\vr\helpers\config.bin)
+18:01:23 Updating base class ->Reflectors, by a3\structures_f_enoch\vr\helpers\config.bin/CfgVehicles/Reflector_Cone_01_long_base_F/Reflectors/ (original (no unload))
+18:01:23 Updating base class ->Light_1, by a3\structures_f_enoch\vr\helpers\config.bin/CfgVehicles/Reflector_Cone_01_long_base_F/Reflectors/Light_1/ (original a3\structures_f_enoch\vr\helpers\config.bin)
+18:01:23 Updating base class ->I_Soldier_base_F, by a3\characters_f_enoch\config.bin/CfgVehicles/I_E_Man_Base_F/ (original a3\characters_f_enoch\config.bin)
+18:01:23 Updating base class ->I_E_Soldier_base_F, by a3\characters_f_enoch\config.bin/CfgVehicles/I_E_Soldier_F/ (original a3\characters_f_enoch\config.bin)
+18:01:23 Updating base class ->RHS_KORD_Base, by rhsafrf\addons\rhs_c_heavyweapons\config.bin/CfgVehicles/rhs_KORD_MSV/ (original rhsafrf\addons\rhs_c_heavyweapons\config.bin)
+18:01:23 Updating base class ->RHS_KORD_high_base, by rhsafrf\addons\rhs_c_heavyweapons\config.bin/CfgVehicles/rhs_KORD_high_MSV/ (original rhsafrf\addons\rhs_c_heavyweapons\config.bin)
+18:01:23 Updating base class ->rhs_SPG9M_base, by rhsafrf\addons\rhs_c_heavyweapons\config.bin/CfgVehicles/rhs_SPG9M_MSV/ (original rhsafrf\addons\rhs_c_heavyweapons\config.bin)
+18:01:23 Updating base class ->rhs_Igla_AA_pod_Base, by rhsafrf\addons\rhs_c_heavyweapons\config.bin/CfgVehicles/rhs_Igla_AA_pod_msv/ (original rhsafrf\addons\rhs_c_heavyweapons\config.bin)
+18:01:23 Updating base class ->rhs_Kornet_Base, by rhsafrf\addons\rhs_c_heavyweapons\config.bin/CfgVehicles/rhs_Kornet_9M133_2_msv/ (original rhsafrf\addons\rhs_c_heavyweapons\config.bin)
+18:01:24 Updating base class ->rhs_weap_ak74, by rhsafrf\addons\rhs_c_weapons\config.bin/CfgWeapons/rhs_weap_ak74n_2_npz/ (original rhsafrf\addons\rhs_c_weapons\config.bin)
+18:01:24 Updating base class ->rhs_weap_ak74_gp25, by rhsafrf\addons\rhs_c_weapons\config.bin/CfgWeapons/rhs_weap_ak74n_2_gp25_npz/ (original rhsafrf\addons\rhs_c_weapons\config.bin)
+18:01:24 Updating base class ->rhs_weap_aks74n, by rhsafrf\addons\rhs_c_weapons\config.bin/CfgWeapons/rhs_weap_aks74n_2_npz/ (original rhsafrf\addons\rhs_c_weapons\config.bin)
+18:01:24 Updating base class ->rhs_weap_svdp, by rhsafrf\addons\rhs_c_weapons\config.bin/CfgWeapons/rhs_weap_svdp_npz/ (original rhsafrf\addons\rhs_c_weapons\config.bin)
+18:01:24 Updating base class ->hgun_PDW2000_F, by rhsafrf\addons\rhs_c_weapons\config.bin/CfgWeapons/rhs_weap_pp2000/ (original rhsafrf\addons\rhs_c_weapons\config.bin)
+18:01:24 Updating base class ->rhs_6b47, by rhsafrf\addons\rhs_c_troops\config.bin/CfgWeapons/rhs_6b47_bala/ (original rhsafrf\addons\rhs_c_troops\config.bin)
+18:01:24 Updating base class ->rhs_6b47, by rhsafrf\addons\rhs_c_troops\config.bin/CfgWeapons/rhs_6b47_ess_bala/ (original rhsafrf\addons\rhs_c_troops\config.bin)
+18:01:24 Updating base class ->rhs_6b47, by rhsafrf\addons\rhs_c_troops\config.bin/CfgWeapons/rhs_6b47_6m2/ (original rhsafrf\addons\rhs_c_troops\config.bin)
+18:01:24 Updating base class ->rhs_6b47, by rhsafrf\addons\rhs_c_troops\config.bin/CfgWeapons/rhs_6b47_6m2_1/ (original rhsafrf\addons\rhs_c_troops\config.bin)
+18:01:24 Updating base class ->rhs_6b23, by rhsafrf\addons\rhs_c_troops\config.bin/CfgWeapons/rhs_6b43/ (original rhsafrf\addons\rhs_c_troops\config.bin)
+18:01:24 Updating base class ->ItemInfo, by rhsafrf\addons\rhs_c_troops\config.bin/CfgWeapons/rhs_6b45/ItemInfo/ (original rhsafrf\addons\rhs_c_troops\config.bin)
+18:01:25 Updating base class ->InventoryItem_Base_F, by x\cba\addons\common\config.bin/CfgWeapons/CBA_MiscItem_ItemInfo/ (original x\cba\addons\common\config.bin)
+18:01:25 Updating base class ->ItemCore, by x\cba\addons\common\config.bin/CfgWeapons/CBA_MiscItem/ (original x\cba\addons\common\config.bin)
+18:01:25 Updating base class ->RHS_Mi24P_VVS_Base, by rhsafrf\addons\rhs_c_a2port_air\config.bin/CfgVehicles/RHS_Mi24P_vvs/ (original rhsafrf\addons\rhs_c_a2port_air\config.bin)
+18:01:25 Updating base class ->RHS_Mi8MTV3_heavy_vvs, by rhsafrf\addons\rhs_c_a2port_air\config.bin/CfgVehicles/RHS_Mi8MTV3_heavy_vvsc/ (original rhsafrf\addons\rhs_c_a2port_air\config.bin)
+18:01:25 Updating base class ->RHS_Mi8T_VVS_Base, by rhsafrf\addons\rhs_c_a2port_air\config.bin/CfgVehicles/RHS_Mi8T_vvs/ (original rhsafrf\addons\rhs_c_a2port_air\config.bin)
+18:01:25 Updating base class ->rhs_btr80a_msv, by rhsafrf\addons\rhs_c_btr\config.bin/CfgVehicles/rhs_btr80a_vdv/ (original rhsafrf\addons\rhs_c_btr\config.bin)
+18:01:25 Updating base class ->rhs_tigr_base, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_vdv/ (original rhsafrf\addons\rhs_c_cars\config.bin)
+18:01:25 Updating base class ->rhs_tigr_vdv, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_sts_vdv/ (original acm_o_liv_rhs\vehicles\gaz\config.bin)
+18:01:25 Updating base class ->Turrets, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_sts_vdv/Turrets/ (original acm_o_liv_rhs\vehicles\gaz\config.bin)
+18:01:25 Updating base class ->MainTurret, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_sts_vdv/Turrets/MainTurret/ (original rhsafrf\addons\rhs_c_cars\config.bin)
+18:01:25 Updating base class ->MainTurret, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_sts_vdv/Turrets/AGS_Turret/ (original rhsafrf\addons\rhs_c_cars\config.bin)
+18:01:25 Updating base class ->rhs_tigr_vdv, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_m_vdv/ (original acm_o_liv_rhs\vehicles\gaz\config.bin)
+18:01:25 Updating base class ->Turrets, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_m_vdv/Turrets/ (original acm_o_liv_rhs\vehicles\gaz\config.bin)
+18:01:25 Updating base class ->CargoTurret, by rhsafrf\addons\rhs_c_cars\config.bin/CfgVehicles/rhs_tigr_m_vdv/Turrets/CargoTurret_01/ (original rhsafrf\addons\rhs_c_cars\config.bin)
+18:01:25 Updating base class ->rhs_t15_base, by rhsafrf\addons\rhs_c_t15\config.bin/CfgVehicles/rhs_t15_tv/ (original rhsafrf\addons\rhs_c_t15\config.bin)
+18:01:25 Updating base class deviceBase_peq15_comboGen->deviceBase_peq15_comboVIR, by gjb_itn\addons\gjb_itn_compat_rhsusaf\config.bin/CfgITNCompat/accessories/rhsusf_acc_anpeq15/ (original gjb_itn\addons\gjb_itn_core\config.bin)
+18:01:25 Updating base class ->UserActions, by Kimi_HMDs_RHS\config.bin/CfgVehicles/RHS_UH60M/UserActions/ (original rhsusf\addons\rhsusf_c_a2port_air\config.bin)
+18:01:25 Updating base class ->UserActions, by Kimi_HMDs_RHS\config.bin/CfgVehicles/rhsusf_CH53E_USMC/UserActions/ (original rhsusf\addons\rhsusf_c_ch53\config.bin)
+18:01:25 Updating base class ->UserActions, by Kimi_HMDs_RHS\config.bin/CfgVehicles/RHS_UH1Y/UserActions/ (original rhsusf\addons\rhsusf_c_a2port_air\config.bin)
+18:01:25 Updating base class ->UserActions, by Kimi_HMDs_RHS\config.bin/CfgVehicles/RHS_MELB_base/UserActions/ (original rhsusf\addons\rhsusf_c_melb\config.bin)
+18:01:25 Updating base class ACE_SelfActions->, by z\ace\addons\interaction\config.bin/CfgVehicles/Tank/ACE_SelfActions/ (original z\tfar\addons\core\config.bin)
+18:01:25 Updating base class ACE_SelfActions->, by z\ace\addons\interaction\config.bin/CfgVehicles/Helicopter/ACE_SelfActions/ (original z\tfar\addons\core\intercomconfig\config.bin)
+18:01:25 Updating base class ACE_SelfActions->, by z\ace\addons\interaction\config.bin/CfgVehicles/Plane/ACE_SelfActions/ (original z\tfar\addons\core\intercomconfig\config.bin)
+18:01:25 Updating base class I_Heli_light_03_unarmed_base_F->Heli_light_03_unarmed_base_F, by z\ace\addons\realisticnames\config.cpp/CfgVehicles/I_Heli_light_03_unarmed_F/ (original (a3\air_f_epb\heli_light_03\config.bin - no unload))
+18:01:27 Updating base class rhs_faction_usarmy->, by y\tfw_radios\addons\ilbe\config.bin/CfgFactionClasses/rhs_faction_usmc_wd/ (original rhsusf\addons\rhsusf_main\config.bin)
+18:01:27 Updating base class rhs_faction_usarmy->, by y\tfw_radios\addons\ilbe\config.bin/CfgFactionClasses/rhs_faction_usmc_d/ (original rhsusf\addons\rhsusf_main\config.bin)
+18:01:27 Updating base class Mode_FullAuto->LowROF, by z\ace\addons\aircraft\config.bin/CfgWeapons/M134_minigun/HighROF/ (original Kimi_Weapons_Helos\config.bin)
+18:01:27 Updating base class UserActions->, by z\ace\addons\fastroping\config.bin/CfgVehicles/Heli_Transport_03_base_F/UserActions/ (original (a3\air_f_heli\heli_transport_03\config.bin - no unload))
+18:01:27 Updating base class BagFence_base_F->ACE_envelope_small, by x\grad_trenches\addons\functions\config.bin/CfgVehicles/ACE_envelope_big/ (original (z\ace\addons\trenches\config.bin - no unload))
+18:01:27 Updating base class BagFence_base_F->ACE_envelope_big, by x\grad_trenches\addons\functions\config.bin/CfgVehicles/GRAD_envelope_giant/ (original x\grad_trenches\addons\assets\config.bin)
+18:01:27 Updating base class BagFence_base_F->ACE_envelope_big, by x\grad_trenches\addons\functions\config.bin/CfgVehicles/GRAD_envelope_vehicle/ (original x\grad_trenches\addons\assets\config.bin)
+18:01:27 Updating base class BagFence_base_F->ACE_envelope_big, by x\grad_trenches\addons\functions\config.bin/CfgVehicles/GRAD_envelope_short/ (original x\grad_trenches\addons\assets\config.bin)
+18:01:27 Updating base class BagFence_base_F->ACE_envelope_big, by x\grad_trenches\addons\functions\config.bin/CfgVehicles/GRAD_envelope_long/ (original x\grad_trenches\addons\assets\config.bin)
+18:01:28 Updating base class UserActions->, by z\ace\addons\compat_rhs_usf3\compat_rhs_usf3_fastroping\config.bin/CfgVehicles/RHS_UH60M/UserActions/ (original (rhsusf\addons\rhsusf_c_a2port_air\config.bin - no unload))
+18:01:28 Updating base class UserActions->, by z\ace\addons\compat_rhs_usf3\compat_rhs_usf3_fastroping\config.bin/CfgVehicles/rhsusf_CH53E_USMC/UserActions/ (original (rhsusf\addons\rhsusf_c_ch53\config.bin - no unload))
+18:01:28 Initializing Steam Manager
+18:01:28 unable to load subscribed content list. list will be updated from steam
+18:01:28 unable to load published content list. list will be updated from steam
+18:01:28 unable to load cached items meta info. save and update functionality will be broken
+18:01:28 Steam Manager initialized.
+18:01:28 
+18:01:28 ==== Loaded addons ====
+18:01:28 
+18:01:28 dta/core.pbo - 129618
+18:01:28 dta/languagecore_f.pbo - 150993
+18:01:28 dta/bin.pbo - 152405
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zulu_headless_client/addons/zhc_stat.pbo - 00f59425
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zulu_headless_client/addons/zhc_dynsim.pbo - 00f59425
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zulu_headless_client/addons/zhc_main.pbo - 00f59425
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zulu_headless_client/addons/zhc_offload.pbo - 00f59425
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_editor.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_compat_ace.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_custom_modules.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_building_markers.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_tasks.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_vision.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_attached_objects.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_context_menu.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_damage.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_music.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_markers_tree.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_compositions.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_area_markers.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_modules.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_compat_advanced_rappelling.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_context_actions.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_faction_filter.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_main.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_editor_previews.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_camera.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_cover_map.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_dialog.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_placement.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_remote_control.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_inventory.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_visibility.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_ai.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_loadout.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_pylons.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_doors.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_garage.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_flashlight.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_position_logics.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_attributes.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced/addons/zen_common.pbo - 1.15.1.36
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_vest.pbo - Sun Jul 07 11:23:25 2019
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_core.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_body.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_acc.pbo - Thu Jun 18 23:20:25 2020
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_head.pbo - Sun Jul 07 13:13:49 2019
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_cbaeh_fix.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_nvg.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_face.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio/addons/usp_gear_pack.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_static_radios.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_handhelds.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_ai_hearing.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_core.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_antennas.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_external_intercom.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta/addons/tfar_backpacks.pbo - 02b1b0cd
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@stubbhult/addons/stubbhult_212.pbo - 24101314
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_mtvr.pbo - RedHammerStudios.0.5.2.5935.r3969
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_melb.pbo - RedHammerStudios.0.5.5.6444.r4303
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_heavyweapons.pbo - RedHammerStudios.0.5.6.6812.r4485
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m11xx.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_caiman.pbo - RedHammerStudios.0.5.6.6781.r4465
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_f22.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_a2port_armor.pbo - RedHammerStudios.0.5.1.5822.r3882
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_hemtt_a2.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_weapons.pbo - RedHammerStudios.0.5.6.6781.r4465
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m1117.pbo - RedHammerStudios.0.5.1.5730.r3840
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_stryker.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_weapons.pbo - RedHammerStudios.0.5.6.6810.r4484
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_hmmwv.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_a2port_armor.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m11xx.pbo - RedHammerStudios.0.5.5.6735.r4448
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_hmmwv.pbo - RedHammerStudios.0.5.5.6735.r4448
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_inventoryicons.pbo - RedHammerStudios.0.5.5.6741.r4451
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_xmas.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_main.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_ch53.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_airweapons.pbo - RedHammerStudios.0.5.6.6805.r4481
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_editorpreviews.pbo - RedHammerStudios.0.5.6.6812.r4485
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m113.pbo - RedHammerStudios.0.5.4.6412.r4280
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_s_radio.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_markvsoc.pbo - RedHammerStudios.0.5.5.6666.r4397
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_a2port_car.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_caiman.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_melb.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m252.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_optics.pbo - RedHammerStudios.0.5.6.6781.r4465
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_matv.pbo - RedHammerStudios.0.5.5.6744.r4453
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_commskit.pbo - RedHammerStudios.0.5.5.6531.r4358
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_hemtt_a4.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m1a1.pbo - RedHammerStudios.0.5.5.6698.r4419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_s_weaponsounds.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_decals.pbo - RedHammerStudios.0.5.3.6224.r4167
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m1a1.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_statics.pbo - RedHammerStudios.0.5.5.6697.r4418
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_rg33l.pbo - RedHammerStudios.0.5.5.6504.r4343
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_matv.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_fmtv.pbo - RedHammerStudios.0.5.5.6434.r4295
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_sounds.pbo - RedHammerStudios.0.5.5.6684.r4407
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_ah64.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_f22.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_fmtv.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m113.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_hemtt_a4.pbo - RedHammerStudios.0.5.3.6354.r4241
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_mtvr.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m1a2.pbo - RedHammerStudios.0.5.6.6806.r4482
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_infantry2.pbo - RedHammerStudios.0.5.5.6678.r4404
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_stryker.pbo - RedHammerStudios.0.5.6.6781.r4465
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_uav.pbo - RedHammerStudios.0.5.2.5937.r3970
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_rg33l.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_radio.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_props.pbo - RedHammerStudios.0.5.3.6302.r4215
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m109.pbo - RedHammerStudios.0.5.1.5822.r3882
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_m1165.pbo - RedHammerStudios.0.5.6.6784.r4466
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_radio.pbo - RedHammerStudios.0.5.2.5924.r3960
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_s_vehiclesounds.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m1117.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_uav.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_a2port_air2.pbo - RedHammerStudios.0.5.5.6439.r4299
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_ch53.pbo - RedHammerStudios.0.5.5.6439.r4299
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_a2port_air.pbo - RedHammerStudios.0.5.5.6505.r4344
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_weapon_sounds.pbo - RedHammerStudios.0.5.2.5935.r3969
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m1a2.pbo - RedHammerStudios.0.5.6.6801.r4479
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m109.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_weapons3.pbo - RedHammerStudios.0.5.6.6798.r4477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_infantry.pbo - RedHammerStudios.0.5.5.6588.r4377
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_identity.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_ah64.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_heavyweapons.pbo - RedHammerStudios.0.5.5.6697.r4418
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_socomauv.pbo - RedHammerStudios.0.5.5.6504.r4343
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_troops.pbo - RedHammerStudios.0.5.6.6785.r4467
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_rg33.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_mtvr_tx.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_socomauv.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_mrzr.pbo - RedHammerStudios.0.5.5.6712.r4431
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_commskit.pbo - RedHammerStudios.0.5.5.6531.r4358
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_hemtt_a2.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_a2port_air.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_weaponsounds.pbo - RedHammerStudios.0.5.2.5935.r3969
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_props.pbo - RedHammerStudios.0.5.3.6377.r4259
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_cars.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_vehiclesounds.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_infantry3.pbo - RedHammerStudios.0.5.1.5874.r3920
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_mrzr.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_markvsoc.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_dve.pbo - RedHammerStudios.0.5.1.5787.r3863
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_rg33.pbo - RedHammerStudios.0.5.6.6781.r4465
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_scopes.pbo - RedHammerStudios.0.5.5.6662.r4396
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_himars.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_m252.pbo - RedHammerStudios.0.5.2.5935.r3969
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_airweapons.pbo - RedHammerStudios.0.5.5.6469.r4318
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_c_cougar.pbo - RedHammerStudios.0.5.6.6813.r4486
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_cougar.pbo - RedHammerStudios.0.5.6.6781.r4465
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_weapons2.pbo - RedHammerStudios.0.5.5.6720.r4437
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_muzzleflash.pbo - RedHammerStudios.0.5.5.6613.r4381
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_a2port_car.pbo - RedHammerStudios.0.5.1.5659.r3805
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf/addons/rhsusf_himars.pbo - RedHammerStudios.0.5.1.5822.r3882
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_t15.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_cars.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_trucks.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_weaponsounds.pbo - RedHammerStudios.0.5.5.6344.r4474
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_decals.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_heavyweapons.pbo - RedHammerStudios.0.5.6.6547.r4621
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_a2port_car_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t72.pbo - RedHammerStudios.0.5.5.6283.r4450
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_weapons.pbo - RedHammerStudios.0.5.6.6540.r4615
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_btr.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_cti_indep.pbo - RedHammerStudios.0.5.1.5707.r4148
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_a2port_armor_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_pontoon.pbo - RedHammerStudios.0.5.5.6067.r4325
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_missions.pbo - RedHammerStudios.0.5.5.6123.r4369
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_pts.pbo - RedHammerStudios.0.5.2.5723.r4159
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_main.pbo - RedHammerStudios.0.5.6.6541.r4616
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t14.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_air.pbo - RedHammerStudios.0.5.2.5710.r4150
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_a2port_armor.pbo - RedHammerStudios.0.5.5.6370.r4494
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_pts.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_bmp3.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t80.pbo - RedHammerStudios.0.5.5.6226.r4433
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_gaz66_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_kraz255.pbo - RedHammerStudios.0.5.5.6117.r4365
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_a3retex.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmk_t.pbo - RedHammerStudios.0.5.5.6062.r4320
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmp3.pbo - RedHammerStudios.0.5.2.5722.r4158
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_identity.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_2s3.pbo - RedHammerStudios.0.5.6.6500.r4587
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t80u.pbo - RedHammerStudios.0.5.5.6226.r4433
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_kraz255.pbo - RedHammerStudios.0.5.6.6544.r4619
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_servicemenu.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_weapons3.pbo - RedHammerStudios.0.5.6.6513.r4596
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_bmp.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_weapon_sounds.pbo - RedHammerStudios.0.5.2.5719.r4156
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_radars.pbo - RedHammerStudios.0.5.3.5759.r4174
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_a2port_car.pbo - RedHammerStudios.0.5.6.6544.r4619
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_a2port_car.pbo - RedHammerStudios.0.5.6.6544.r4619
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_kamaz.pbo - RedHammerStudios.0.5.6.6535.r4611
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_sounds.pbo - RedHammerStudios.0.5.6.6500.r4587
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmp3_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_a2port_air.pbo - RedHammerStudios.0.5.6.6533.r4609
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_t14.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_pontoon.pbo - RedHammerStudios.0.5.6.6540.r4615
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_mig29.pbo - RedHammerStudios.0.5.2.5710.r4150
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_infantry3.pbo - RedHammerStudios.0.5.6.6537.r4613
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_bmd.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_mi28.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmp.pbo - RedHammerStudios.0.5.6.6487.r4577
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_s_weaponsounds.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_props.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_zil131.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_2s3.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_zil131.pbo - RedHammerStudios.0.5.5.6463.r4559
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_a2port_air.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_ss21.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_troops.pbo - RedHammerStudios.0.5.6.6550.r4624
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_2s1.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_vehicle_sounds.pbo - RedHammerStudios.0.5.6.6534.r4610
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_weapons2.pbo - RedHammerStudios.0.5.5.6099.r4353
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_btr70.pbo - RedHammerStudios.0.5.5.6370.r4494
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_aps.pbo - RedHammerStudios.0.5.2.5719.r4156
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmd_34.pbo - RedHammerStudios.0.5.2.5711.r4151
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_radio.pbo - RedHammerStudios.0.5.5.6451.r4548
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_btr70_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_t72.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t80u_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_sprut.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_airweapons.pbo - RedHammerStudios.0.5.6.6529.r4607
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_kamaz.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_gaz66.pbo - RedHammerStudios.0.5.6.6526.r4606
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_2s3_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_2s1.pbo - RedHammerStudios.0.5.6.6510.r4593
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_air.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_mig29.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t72_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_tanks.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_accessory.pbo - RedHammerStudios.0.5.3.5882.r4217
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmd_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_a3retex.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_optics.pbo - RedHammerStudios.0.5.6.6500.r4587
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_airweapons.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_btr80_camo.pbo - RedHammerStudios.0.5.3.5944.r4236
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_infantry.pbo - RedHammerStudios.0.5.6.6490.r4579
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_btr70_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmp_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_editorpreviews.pbo - RedHammerStudios.0.5.6.6540.r4615
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_radars.pbo - RedHammerStudios.0.5.1.5707.r4148
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_weapons.pbo - RedHammerStudios.0.5.5.6364.r4489
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_heavyweapons.pbo - RedHammerStudios.0.5.6.6526.r4606
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_bmd.pbo - RedHammerStudios.0.5.5.6450.r4547
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_btr80.pbo - RedHammerStudios.0.5.6.6546.r4620
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_tigr.pbo - RedHammerStudios.0.5.6.6517.r4599
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_s_radio.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_mi28.pbo - RedHammerStudios.0.5.3.5853.r4205
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_a2port_armor.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_muzzleflash.pbo - RedHammerStudios.0.5.3.5952.r4239
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_vehiclesounds.pbo - RedHammerStudios.0.5.5.6388.r4507
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_inventoryicons.pbo - RedHammerStudios.0.5.6.6548.r4622
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_sprut.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_vehiclesounds.pbo - RedHammerStudios.0.5.5.6450.r4547
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_bmk_t.pbo - RedHammerStudios.0.5.6.6540.r4615
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_ss21_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_identity.pbo - RedHammerStudios.0.5.5.6002.r4269
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_t15.pbo - RedHammerStudios.0.5.5.6470.r4565
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_rva.pbo - RedHammerStudios.0.5.6.6542.r4618
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_mtlb.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_c_bmd_camo.pbo - RedHammerStudios.0.5.1.5533.r4092
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf/addons/rhs_infantry2.pbo - RedHammerStudios.0.5.6.6514.r4597
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_turrets/addons/lambs_turrets.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_suppression/addons/lambs_suppression.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_rpg/addons/lambs_rpgrhs.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_rpg/addons/lambs_rpgcup.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_rpg/addons/lambs_rpg.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_rpg/addons/lambs_rpgsog.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm/addons/lambs_eventhandlers.pbo - 2.6.1.502
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm/addons/lambs_formations.pbo - 2.6.1.502
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm/addons/lambs_danger.pbo - 2.6.1.502
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm/addons/lambs_wp.pbo - 2.6.1.502
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm/addons/lambs_main.pbo - 2.6.1.502
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm/addons/lambs_range.pbo - 2.6.1.502
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@itn_illuminate_the_night/addons/gjb_itn_core.pbo - 23112200
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@itn_compat_rhs_usaf/addons/gjb_itn_compat_rhsusaf.pbo - 23112121
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ilbe_assault_pack_rewrite/addons/ilbe.pbo - 00000000
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ilbe_assault_pack_rewrite/addons/rf3080.pbo - 00000000
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ilbe_assault_pack_rewrite/addons/main.pbo - 00000000
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_rhs/addons/kimi_hmds_rhs.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_mod/addons/kimi_ui.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_mod/addons/kimi_weapons_wipeout.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_mod/addons/kimi_weapons_helos.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_mod/addons/kimi_hmds_helos.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_mod/addons/kimi_hmds_wipeout.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hide_among_the_grass_hatg/addons/gui.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hide_among_the_grass_hatg/addons/core.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@hide_among_the_grass_hatg/addons/functions.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@gruppe_adler_trenches/addons/grad_trenches_assets.pbo - 1.6.9.7-cb40083a
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@gruppe_adler_trenches/addons/grad_trenches_main.pbo - 1.6.9.7-cb40083a
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@gruppe_adler_trenches/addons/grad_trenches_sounds.pbo - 1.6.9.7-cb40083a
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@gruppe_adler_trenches/addons/grad_trenches_functions.pbo - 1.6.9.7-cb40083a
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@enhanced_movement_rework/addons/emr_main.pbo - 1.0.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@enhanced_movement/addons/babe_em.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@enhanced_movement/addons/babe_core.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@enhanced_movement/addons/babe_int.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@dui_squad_radar/addons/diwako_dui_buddy.pbo - 1.11.1.0
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@dui_squad_radar/addons/diwako_dui_radar.pbo - 1.11.1.0
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@dui_squad_radar/addons/diwako_dui_nametags.pbo - 1.11.1.0
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@dui_squad_radar/addons/diwako_dui_main.pbo - 1.11.1.0
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@dui_squad_radar/addons/diwako_dui_indicators.pbo - 1.11.1.0
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ctab_nswdg_edition/addons/ctab.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_tfar.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_misc.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_pingbox.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_ace.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_teleport.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_drawbuild.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_zeus_text.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions/addons/crowsza_main.pbo - 2.1.4
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ch_view_distance/addons/chvd.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_loadout.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_main.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_statemachine.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_jam.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_ui.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_settings.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_jr.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_vectors.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_optics.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_hashes.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_help.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_network.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_versioning.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_strings.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_modules.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_characters.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_diagnostic.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_disposable.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_ai.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_accessory.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_events.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_main_a3.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_keybinding.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_arrays.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_music.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_xeh.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3/addons/cba_common.pbo - 3.18.1.241014
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@bettir_legacy/addons/bettir_core.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@better_inventory/addons/better_inventory.pbo - Sun Dec 24 23:37:08 2023
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@backpackonchest_redux/addons/bocr_main.pbo - 2.2.1.0-709ed506
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@anthraxs_opfor_ldf_rhs/addons/acm_o_liv_rhs.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_sog.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rh_de.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_zeus.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_fastroping.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_fonts.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_hearing.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_arsenal.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_cup_weapons.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_rangecard.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_kestrel4500.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_fire.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_volume.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_ws.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rhs_afrf3.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_common.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_vehicles.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_disarming.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_advanced_throwing.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_logistics_uavbattery.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_laser.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_novehicleclanlogo.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_flashsuppressors.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_reload.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_modules.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_realisticweights.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_spe.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_microdagr.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_metis.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_goggles.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_gestures.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_refuel.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_hunterkiller.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_sitting.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_weaponselect.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_r3f.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_ballistics.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_ai.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_quickmount.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_fcs.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_switchunits.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_maverick.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_trenches.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_javelin.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_noidle.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_csla.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_logistics_wirecutter.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_spottingscope.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_damage.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_huntir.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_minedetector.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_backpacks.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_apl.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_grenades.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_thermals.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_finger.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_inventory.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_atragmx.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_attach.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_advanced_ballistics.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_status.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_dragging.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_marker_flags.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rhs_gref3.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_pylons.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_realisticnames.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_yardage450.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_cargo.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_norearm.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_dragon.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_fieldmanual.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_ui.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_missileguidance.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_slideshow.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_rearm.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_viewports.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_cookoff.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_headless.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_xm157.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_map.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_overheating.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_markers.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_killtracker.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_frag.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_advanced_fatigue.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_missile_gbu.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_weather.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_fortify.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_tacticalladder.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_smallarms.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_missionmodules.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_maptools.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rf.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_ai.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_artillerytables.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_chemlights.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_main.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rh_m4.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_viewdistance.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_laserpointer.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_field_rations.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_spectator.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_gforces.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_hellfire.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_hot.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_sma3_iansky.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_intelitems.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_tripod.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rh_acc.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_vitals.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_flashlights.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rksl_pm_ii.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_sandbag.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_optics.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_safemode.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_hitreactions.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_parachute.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_noradio.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_magazinerepack.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_respawn.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_concertina_wire.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_mk6mortar.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_gm.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_gui.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_disposable.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_towing.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_feedback.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_winddeflection.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rhs_usf3.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_logistics_rope.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_aegis.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_reloadlaunchers.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_optionsmenu.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_vector.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_treatment.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_nlaw.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_viewrestriction.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_interaction.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_cup_terrains.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_cup_units.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_map_gestures.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_explosives.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_vehiclelock.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_repair.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rhs_saf3.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_interact_menu.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_gunbag.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_blood.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_aircraft.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_nightvision.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_statemachine.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_dagr.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_casings.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_overpressure.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_tagging.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_captives.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_cup_vehicles.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_scopes.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_medical_engine.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_vehicle_damage.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_irlight.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_missile_vikhr.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_compat_rh_pdw.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_recoil.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_csw.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_nametags.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_mx2a.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_dogtags.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@ace/addons/ace_movement.pbo - 3.18.1.91
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@aarens_sound_core/addons/twa_soncore.pbo - 24100115
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@aarens_blast_effects/addons/asbe.pbo - unknown
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/@150th_languard_zeus_tools/addons/zeus_tools.pbo - 24060300
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/anims_f_aow.pbo - 149768
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/supplies_f_aow.pbo - 150149
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/data_f_aow.pbo - 149928
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/missions_f_aow_data.pbo - 150984
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/language_f_aow.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/editorpreviews_f_aow.pbo - 149909
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/dubbing_f_aow.pbo - 149901
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/props_f_aow.pbo - 150912
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/structures_f_aow.pbo - 149883
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/sounds_f_aow.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/missions_f_aow.pbo - 150974
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/missions_f_aow_video.pbo - 149837
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/characters_f_aow.pbo - 150659
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/languagemissions_f_aow.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/ui_f_aow.pbo - 149917
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/aow/addons/functions_f_aow.pbo - 149593
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/ui_f_enoch.pbo - 147095
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/languagemissions_f_enoch.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/props_f_enoch.pbo - 150309
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/anims_f_enoch.pbo - 150341
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_infrastructure.pbo - 148551
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/dubbing_radio_f_enoch_data.pbo - 150020
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/weapons_f_enoch.pbo - 150671
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/music_f_enoch_music.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/armor_f_enoch.pbo - 145904
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/supplies_f_enoch.pbo - 150249
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/map_enoch.pbo - 150292
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/characters_f_enoch.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/rocks_f_enoch.pbo - 148432
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_industrial.pbo - 150920
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/editorpreviews_f_enoch.pbo - 150962
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/static_f_enoch.pbo - 145904
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/sounds_f_enoch.pbo - 150842
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_military.pbo - 150174
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/language_f_enoch.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/cargoposes_f_enoch.pbo - 142478
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_civilian.pbo - 150926
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_furniture.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/dubbing_radio_f_enoch.pbo - 150070
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/map_enoch_data_layers.pbo - 146184
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/music_f_enoch.pbo - 147472
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/air_f_enoch.pbo - 145904
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/functions_f_enoch.pbo - 148356
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_data.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/soft_f_enoch.pbo - 150885
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/map_enoch_data.pbo - 145274
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_commercial.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/map_enoch_scenes_f.pbo - 143336
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/missions_f_enoch.pbo - 149487
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch_cultural.pbo - 150415
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/vegetation_f_enoch.pbo - 150192
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/data_f_enoch.pbo - 150070
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/enoch/addons/structures_f_enoch.pbo - 148551
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/dubbing_f_tank.pbo - 127958
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/props_f_tank.pbo - 131702
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/ui_f_tank.pbo - 148551
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/modules_f_tank.pbo - 147857
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/functions_f_tank.pbo - 125996
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/missions_f_tank_data.pbo - 128937
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/music_f_tank.pbo - 127912
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/cargoposes_f_tank.pbo - 128283
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/data_f_tank.pbo - 128203
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/editorpreviews_f_tank.pbo - 137875
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/languagemissions_f_tank.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/language_f_tank.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/characters_f_tank.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/missions_f_tank.pbo - 150984
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/weapons_f_tank.pbo - 150920
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/sounds_f_tank.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/armor_f_tank.pbo - 150292
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tank/addons/structures_f_tank.pbo - 150249
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/languagemissions_f_tacops.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/ui_f_tacops.pbo - 148551
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/data_f_tacops.pbo - 150102
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/missions_f_tacops.pbo - 144976
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/modules_f_tacops.pbo - 150149
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/functions_f_tacops.pbo - 150415
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/dubbing_f_tacops.pbo - 129340
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/language_f_tacops.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/characters_f_tacops.pbo - 129739
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/sounds_f_tacops.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/tacops/addons/music_f_tacops.pbo - 124064
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/editorpreviews_f_orange.pbo - 123173
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/languagemissions_f_orange.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/weapons_f_orange.pbo - 150671
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/music_f_orange.pbo - 120725
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/missions_f_orange.pbo - 150364
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/props_f_orange.pbo - 148864
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/characters_f_orange.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/modules_f_orange.pbo - 143632
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/data_f_orange.pbo - 144284
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/language_f_orange.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/structures_f_orange.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/soft_f_orange.pbo - 150945
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/dubbing_f_orange.pbo - 121689
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/supplies_f_orange.pbo - 129371
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/sounds_f_orange.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/cargoposes_f_orange.pbo - 126225
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/functions_f_orange.pbo - 150945
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/ui_f_orange.pbo - 149706
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/orange/addons/air_f_orange.pbo - 150970
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/structures_f_argo.pbo - 150961
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/map_malden.pbo - 150292
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/language_f_argo.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/map_malden_data_layers.pbo - 135888
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/weapons_f_patrol.pbo - 141307
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/props_f_argo.pbo - 129371
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/data_f_patrol.pbo - 141307
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/armor_f_argo.pbo - 129739
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/languagemissions_f_patrol.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/sounds_f_patrol.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/functions_f_patrol.pbo - 141510
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/missions_f_patrol.pbo - 126663
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/characters_f_patrol.pbo - 149127
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/editorpreviews_f_argo.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/map_malden_scenes_f.pbo - 120026
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/ui_f_patrol.pbo - 141307
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/language_f_patrol.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/rocks_f_argo.pbo - 148432
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/vegetation_f_argo.pbo - 148432
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/data_f_argo.pbo - 128209
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/map_malden_data.pbo - 135888
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/modules_f_patrol.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/argo/addons/music_f_argo.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/cargoposes_f_jets.pbo - 126225
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/static_f_jets.pbo - 146744
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/characters_f_jets.pbo - 129739
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/editorpreviews_f_sams.pbo - 132141
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/language_f_destroyer.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/modules_f_jets.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/anims_f_jets.pbo - 123210
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/dubbing_f_jets.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/air_f_jets.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/languagemissions_f_jets.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/editorpreviews_f_jets.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/weapons_f_sams.pbo - 149414
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/props_f_destroyer.pbo - 132141
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/missions_f_jets.pbo - 130755
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/data_f_jets.pbo - 150370
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/functions_f_destroyer.pbo - 150071
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/boat_f_jets.pbo - 150071
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/language_f_jets.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/sounds_f_jets.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/weapons_f_destroyer.pbo - 132268
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/static_f_sams.pbo - 146744
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/props_f_jets.pbo - 129371
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/weapons_f_jets.pbo - 148847
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/ui_f_jets.pbo - 126137
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/language_f_sams.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/music_f_jets.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/static_f_destroyer.pbo - 140243
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/functions_f_jets.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/editorpreviews_f_destroyer.pbo - 132141
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/data_f_sams.pbo - 150370
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/data_f_destroyer.pbo - 150370
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/jets/addons/boat_f_destroyer.pbo - 143297
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/map_tanoabuka_data_layers.pbo - 121192
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/functions_f_oldman.pbo - 148553
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/dubbing_radio_f_exp_data_engfre.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/rocks_f_exp.pbo - 148432
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/characters_f_exp.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/language_f_exp.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp_industrial.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp_infrastructure.pbo - 148551
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/languagemissions_f_exp.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/missions_f_exp.pbo - 144315
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/static_f_oldman.pbo - 148580
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/languagemissions_f_oldman.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/data_f_oldman.pbo - 148580
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/dubbing_radio_f_exp_data_fre.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp_data.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/soft_f_oldman.pbo - 148580
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/weapons_f_exp.pbo - 150671
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/props_f_exp.pbo - 147637
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/missions_f_oldman.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/music_f_oldman.pbo - 148553
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/map_data_exp.pbo - 136265
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/dubbing_f_oldman.pbo - 148756
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/language_f_oldman.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/anims_f_exp.pbo - 126506
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/map_tanoa_scenes_f.pbo - 123527
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/missions_f_exp_data.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/music_f_oldman_music.pbo - 148679
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp_commercial.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/editorpreviews_f_exp.pbo - 150961
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/map_tanoabuka_data.pbo - 135884
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/supplies_f_oldman.pbo - 148553
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/data_f_exp.pbo - 148936
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/dubbing_radio_f_exp_data_chi.pbo - 119458
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/sounds_f_exp.pbo - 150920
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp_cultural.pbo - 148419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/dubbing_f_exp.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/armor_f_exp.pbo - 141671
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/characters_f_oldman.pbo - 148698
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/missions_f_exp_video.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/dubbing_radio_f_exp.pbo - 119458
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/air_f_exp.pbo - 150885
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/ui_f_exp.pbo - 123398
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/ui_f_oldman.pbo - 149216
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/music_f_exp_music.pbo - 119477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp_civilian.pbo - 148739
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/cargoposes_f_exp.pbo - 126224
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/map_tanoabuka_data_layers_00_00.pbo - 121192
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_exp.pbo - 150912
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/sounds_f_oldman.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/map_tanoabuka.pbo - 150292
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/editorpreviews_f_oldman.pbo - 150961
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/modules_f_exp.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/props_f_oldman.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/soft_f_exp.pbo - 150945
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/music_f_exp.pbo - 119477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/boat_f_exp.pbo - 150071
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/vegetation_f_exp.pbo - 148432
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/static_f_exp.pbo - 119478
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/functions_f_exp.pbo - 144006
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/supplies_f_exp.pbo - 148079
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/modules_f_oldman.pbo - 148553
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/expansion/addons/structures_f_oldman.pbo - 150089
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/language_f_mp_mark.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/structures_f_mark.pbo - 149003
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/missions_f_mp_mark_data.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/anims_f_mark.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/music_f_mark_music.pbo - 119477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/functions_f_mp_mark.pbo - 150802
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/characters_f_mark.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/modules_f_mp_mark.pbo - 150251
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/missions_f_mark_video.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/modules_f_mark.pbo - 148886
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/missions_f_mp_mark.pbo - 141704
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/functions_f_mark.pbo - 150934
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/music_f_mark.pbo - 119477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/weapons_f_mark.pbo - 149339
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/static_f_mark.pbo - 146756
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/data_f_mark.pbo - 129371
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/sounds_f_mark.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/missions_f_mark.pbo - 122301
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/missions_f_mark_data.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/dubbing_f_mp_mark.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/ui_f_mp_mark.pbo - 119478
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/supplies_f_mark.pbo - 140562
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/dubbing_f_mark.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/languagemissions_f_mp_mark.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/language_f_mark.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/languagemissions_f_mark.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/mark/addons/ui_f_mark.pbo - 119478
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/music_f_heli_music.pbo - 119477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/air_f_heli.pbo - 150885
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/languagemissions_f_heli.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/functions_f_heli.pbo - 123022
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/anims_f_heli.pbo - 123210
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/dubbing_f_heli.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/boat_f_heli.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/missions_f_heli_data.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/modules_f_heli.pbo - 150249
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/supplies_f_heli.pbo - 145695
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/ui_f_heli.pbo - 119478
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/missions_f_heli.pbo - 129397
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/structures_f_heli.pbo - 141968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/soft_f_heli.pbo - 129742
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/music_f_heli.pbo - 119477
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/cargoposes_f_heli.pbo - 126231
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/missions_f_heli_video.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/sounds_f_heli.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/data_f_heli.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/heli/addons/language_f_heli.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/structures_f_kart.pbo - 123419
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/languagemissions_f_kart.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/language_f_kart.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/sounds_f_kart.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/modules_f_kart_data.pbo - 149274
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/modules_f_kart.pbo - 150028
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/missions_f_kart_data.pbo - 119459
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/data_f_kart.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/soft_f_kart.pbo - 150945
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/characters_f_kart.pbo - 150968
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/missions_f_kart.pbo - 149274
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/weapons_f_kart.pbo - 138461
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/ui_f_kart.pbo - 119478
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/kart/addons/anims_f_kart.pbo - 123210
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/missions_f_curator.pbo - 121570
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/data_f_curator_music.pbo - 119457
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/ui_f_curator.pbo - 150867
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/language_f_curator.pbo - 150993
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/modules_f_curator.pbo - 150096
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/functions_f_curator.pbo - 150945
+18:01:28 /mnt/ebs_volume/steam/steamcmd/arma3/curator/addons/data_f_curator.pbo - 150867
+18:01:28 addons/editorpreviews_f.pbo - 150963
+18:01:28 addons/soft_f_epc.pbo - 150070
+18:01:28 addons/props_f_exp_a.pbo - 147637
+18:01:28 addons/modules_f_warlords.pbo - 144205
+18:01:28 addons/modules_f_data.pbo - 122470
+18:01:28 addons/music_f_epc.pbo - 119459
+18:01:28 addons/map_vr_scenes_f.pbo - 119459
+18:01:28 addons/anims_f_mod.pbo - 135280
+18:01:28 addons/signs_f.pbo - 148432
+18:01:28 addons/music_f_epa.pbo - 119459
+18:01:28 addons/language_f_bootcamp.pbo - 150993
+18:01:28 addons/missions_f.pbo - 141704
+18:01:28 addons/modules_f_exp_a.pbo - 119459
+18:01:28 addons/map_altis_data_layers_00_00.pbo - 0000
+18:01:28 addons/ui_f_data.pbo - 150976
+18:01:28 addons/characters_f_gamma.pbo - 150968
+18:01:28 addons/drones_f.pbo - 146855
+18:01:28 addons/weapons_f_beta.pbo - 150174
+18:01:28 addons/dubbing_radio_f_data_engb.pbo - 119458
+18:01:28 addons/sounds_f_bootcamp.pbo - 150842
+18:01:28 addons/map_vr.pbo - 135900
+18:01:28 addons/dubbing_f_epb.pbo - 119457
+18:01:28 addons/missions_f_gamma_video.pbo - 119459
+18:01:28 addons/data_f_mod.pbo - 131534
+18:01:28 addons/language_f_epa.pbo - 150993
+18:01:28 addons/modules_f_epb.pbo - 134655
+18:01:28 addons/missions_f_epc.pbo - 141704
+18:01:28 addons/weapons_f_epb.pbo - 137810
+18:01:28 addons/language_f_decade.pbo - 150993
+18:01:28 addons/missions_f_bootcamp_video.pbo - 119459
+18:01:28 addons/rocks_f.pbo - 149339
+18:01:28 addons/language_f_exp_b.pbo - 150993
+18:01:28 addons/dubbing_radio_f_data_per.pbo - 150218
+18:01:28 addons/sounds_f_characters.pbo - 150867
+18:01:28 addons/armor_f_gamma.pbo - 150803
+18:01:28 addons/map_altis_data_layers_01_00.pbo - 0000
+18:01:28 addons/data_f_bootcamp.pbo - 129618
+18:01:28 addons/characters_f_epb.pbo - 150968
+18:01:28 addons/structures_f.pbo - 150697
+18:01:28 addons/weapons_f_decade.pbo - 150757
+18:01:28 addons/soft_f_beta.pbo - 150920
+18:01:28 addons/misc_f.pbo - 119459
+18:01:28 addons/weapons_f_epa.pbo - 150905
+18:01:28 addons/sounds_f_mod.pbo - 150867
+18:01:28 addons/missions_f_beta.pbo - 150697
+18:01:28 addons/characters_f_beta.pbo - 149965
+18:01:28 addons/map_altis_data_layers.pbo - 135913
+18:01:28 addons/missions_f_exp_a_data.pbo - 119459
+18:01:28 addons/anims_f_epc.pbo - 121358
+18:01:28 addons/functions_f_bootcamp.pbo - 150684
+18:01:28 addons/sounds_f_arsenal.pbo - 150867
+18:01:28 addons/language_f_epc.pbo - 150993
+18:01:28 addons/dubbing_f_epa.pbo - 119457
+18:01:28 addons/structures_f_wrecks.pbo - 148419
+18:01:28 addons/map_altis_data_layers_00_01.pbo - 0000
+18:01:28 addons/functions_f_epc.pbo - 119458
+18:01:28 addons/dubbing_radio_f_data_eng.pbo - 119457
+18:01:28 addons/language_f_beta.pbo - 150993
+18:01:28 addons/static_f_gamma.pbo - 122615
+18:01:28 addons/missions_f_data.pbo - 119459
+18:01:28 addons/air_f_gamma.pbo - 150048
+18:01:28 addons/map_altis_data_layers_01_01.pbo - 0000
+18:01:28 addons/armor_f_beta.pbo - 150339
+18:01:28 addons/music_f_bootcamp_music.pbo - 119459
+18:01:28 addons/missions_f_beta_data.pbo - 150867
+18:01:28 addons/data_f_exp_b.pbo - 119457
+18:01:28 addons/roads_f.pbo - 148432
+18:01:28 addons/missions_f_epa_video.pbo - 119459
+18:01:28 addons/air_f_beta.pbo - 150885
+18:01:28 addons/plants_f.pbo - 148432
+18:01:28 addons/characters_f_bootcamp.pbo - 149274
+18:01:28 addons/props_f_decade.pbo - 150920
+18:01:28 addons/anims_f_exp_a.pbo - 123209
+18:01:28 addons/functions_f.pbo - 150968
+18:01:28 addons/sounds_f_sfx.pbo - 150867
+18:01:28 addons/air_f_epc.pbo - 150048
+18:01:28 addons/map_altis.pbo - 148442
+18:01:28 addons/modules_f_bootcamp.pbo - 119459
+18:01:28 addons/armor_f_epc.pbo - 148819
+18:01:28 addons/dubbing_f.pbo - 119457
+18:01:28 addons/functions_f_exp_a.pbo - 150958
+18:01:28 addons/structures_f_households.pbo - 150926
+18:01:28 addons/characters_f_decade.pbo - 150784
+18:01:28 addons/missions_f_bootcamp_data.pbo - 150867
+18:01:28 addons/anims_f_epa.pbo - 134499
+18:01:28 addons/missions_f_bootcamp.pbo - 145509
+18:01:28 addons/weapons_f.pbo - 150926
+18:01:28 addons/missions_f_gamma_data.pbo - 119459
+18:01:28 addons/map_data.pbo - 134124
+18:01:28 addons/soft_f.pbo - 150945
+18:01:28 addons/modules_f.pbo - 150958
+18:01:28 addons/languagemissions_f_bootcamp.pbo - 150993
+18:01:28 addons/modules_f_beta_data.pbo - 149274
+18:01:28 addons/structures_f_epc.pbo - 148804
+18:01:28 addons/animals_f_beta.pbo - 150071
+18:01:28 addons/missions_f_exp_a.pbo - 141704
+18:01:28 addons/dubbing_radio_f_data_gre.pbo - 119458
+18:01:28 addons/ui_f_decade.pbo - 150746
+18:01:28 addons/soft_f_gamma.pbo - 150920
+18:01:28 addons/language_f_gamma.pbo - 150993
+18:01:28 addons/weapons_f_mod.pbo - 149339
+18:01:28 addons/boat_f_epc.pbo - 131911
+18:01:28 addons/map_altis_data.pbo - 135904
+18:01:28 addons/soft_f_bootcamp.pbo - 150071
+18:01:28 addons/structures_f_ind.pbo - 150048
+18:01:28 addons/air_f.pbo - 150885
+18:01:28 addons/music_f.pbo - 119459
+18:01:28 addons/map_stratis_scenes_f.pbo - 119459
+18:01:28 addons/language_f.pbo - 150993
+18:01:28 addons/sounds_f_decade.pbo - 150867
+18:01:28 addons/languagemissions_f_gamma.pbo - 150993
+18:01:28 addons/functions_f_decade.pbo - 150807
+18:01:28 addons/boat_f.pbo - 150265
+18:01:28 addons/map_stratis_data_layers.pbo - 135888
+18:01:28 addons/missions_f_beta_video.pbo - 119459
+18:01:28 addons/structures_f_epb.pbo - 148421
+18:01:28 addons/map_stratis_data.pbo - 135888
+18:01:28 addons/air_f_epb.pbo - 150885
+18:01:28 addons/language_f_warlords.pbo - 150993
+18:01:28 addons/map_stratis.pbo - 148442
+18:01:28 addons/a3.pbo - unknown
+18:01:28 addons/baseconfig_f.pbo - 119457
+18:01:28 addons/structures_f_exp_a.pbo - 150912
+18:01:28 addons/static_f_beta.pbo - 132365
+18:01:28 addons/missions_f_epa_data.pbo - 119459
+18:01:28 addons/animals_f.pbo - 150071
+18:01:28 addons/languagemissions_f_epc.pbo - 150993
+18:01:28 addons/dubbing_radio_f.pbo - 119457
+18:01:28 addons/missions_f_video.pbo - 119459
+18:01:28 addons/editorpreviews_f_decade.pbo - 150645
+18:01:28 addons/structures_f_mil.pbo - 150697
+18:01:28 addons/map_altis_scenes_f.pbo - 119459
+18:01:28 addons/language_f_epb.pbo - 150993
+18:01:28 addons/characters_f.pbo - 150993
+18:01:28 addons/languagemissions_f_epb.pbo - 150993
+18:01:28 addons/music_f_bootcamp.pbo - 119459
+18:01:28 addons/language_f_exp_a.pbo - 150993
+18:01:28 addons/sounds_f_exp_a.pbo - 150867
+18:01:28 addons/anims_f_data.pbo - 148601
+18:01:28 addons/weapons_f_bootcamp.pbo - 141713
+18:01:28 addons/functions_f_warlords.pbo - 150354
+18:01:28 addons/dubbing_f_warlords.pbo - 136700
+18:01:28 addons/structures_f_bootcamp.pbo - 143436
+18:01:28 addons/armor_f.pbo - 149414
+18:01:28 addons/data_f.pbo - 150322
+18:01:28 addons/armor_f_epb.pbo - 150260
+18:01:28 addons/missions_f_gamma.pbo - 150176
+18:01:28 addons/dubbing_f_beta.pbo - 119457
+18:01:28 addons/languagemissions_f_beta.pbo - 150993
+18:01:28 addons/dubbing_f_bootcamp.pbo - 119457
+18:01:28 addons/anims_f_bootcamp.pbo - 123209
+18:01:28 addons/languagemissions_f.pbo - 150993
+18:01:28 addons/music_f_epc_music.pbo - 119477
+18:01:28 addons/dubbing_f_gamma.pbo - 122449
+18:01:28 addons/music_f_epa_music.pbo - 119459
+18:01:28 addons/editor_f.pbo - 121103
+18:01:28 addons/structures_f_epa.pbo - 149252
+18:01:28 addons/dubbing_radio_f_data_vr.pbo - 119458
+18:01:28 addons/music_f_epb_music.pbo - 119459
+18:01:28 addons/sounds_f_epb.pbo - 150867
+18:01:28 addons/languagemissions_f_epa.pbo - 150993
+18:01:28 addons/data_f_exp_a.pbo - 119457
+18:01:28 addons/languagemissions_f_exp_a.pbo - 150993
+18:01:28 addons/ui_f_exp_a.pbo - 119478
+18:01:28 addons/cargoposes_f.pbo - 149489
+18:01:28 addons/ui_f.pbo - 150976
+18:01:28 addons/weapons_f_epc.pbo - 130416
+18:01:28 addons/sounds_f_vehicles.pbo - 150867
+18:01:28 addons/uifonts_f_data.pbo - 150106
+18:01:28 addons/structures_f_data.pbo - 148419
+18:01:28 addons/dubbing_f_epc.pbo - 119457
+18:01:28 addons/missions_f_epb.pbo - 119459
+18:01:28 addons/anims_f.pbo - 150686
+18:01:28 addons/data_f_decade.pbo - 150764
+18:01:28 addons/boat_f_gamma.pbo - 127529
+18:01:28 addons/3den.pbo - 150977
+18:01:28 addons/boat_f_beta.pbo - 132036
+18:01:28 addons/modules_f_beta.pbo - 150348
+18:01:28 addons/armor_f_decade.pbo - 150805
+18:01:28 addons/ui_f_bootcamp.pbo - 119478
+18:01:28 addons/missions_f_epa.pbo - 150459
+18:01:28 addons/language_f_mod.pbo - 150993
+18:01:28 addons/characters_f_epa.pbo - 148392
+18:01:28 addons/static_f.pbo - 150926
+18:01:28 addons/functions_f_epa.pbo - 150249
+18:01:28 addons/characters_f_epc.pbo - 150968
+18:01:28 addons/data_f_warlords.pbo - 150867
+18:01:28 addons/3den_language.pbo - 150993
+18:01:28 addons/missions_f_warlords.pbo - 145437
+18:01:28 addons/uifonts_f.pbo - 119478
+18:01:28 addons/sounds_f_environment.pbo - 150867
+18:01:28 addons/sounds_f.pbo - 150927
+18:01:28 addons/sounds_f_epc.pbo - 150867
+18:01:28 addons/weapons_f_gamma.pbo - 148783
+18:01:28 addons/music_f_music.pbo - 119477
+18:01:28 addons/music_f_epb.pbo - 119459
+18:01:28 
+18:01:28 =======================
+18:01:28 
+18:01:28 Global namespace not passed during: false
+18:01:28 Global namespace not passed during: false
+18:01:28 Error in expression <false>
+18:01:28   Error position: <false>
+18:01:28   Error Local variable in global space
+18:01:28 Global namespace not passed during: false
+18:01:28 Global namespace not passed during: false
+18:01:28 Error in expression <false>
+18:01:28   Error position: <false>
+18:01:28   Error Local variable in global space
+18:01:28 ============================================================================================= List of mods ===============================================================================================
+18:01:28 modsReadOnly = true
+18:01:28 safeModsActivated = false
+18:01:28 customMods = true
+18:01:28 hash = 'DB4206A857DD60E970890C26A680E3C88B1C9660'
+18:01:28 hashShort = '89b479bd'
+18:01:28                                               name |               modDir |    default |   official |               origin |                                     hash | hashShort | fullPath
+18:01:28 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+18:01:28                                                ZHC | @zulu_headless_client |      false |      false |             GAME DIR | 60dfd31412cd9f0ced200a05bf4b1c0dc9039798 |   9f1d929 | /mnt/ebs_volume/steam/steamcmd/arma3/@zulu_headless_client
+18:01:28                               Zeus Enhanced 1.15.1 |       @zeus_enhanced |      false |      false |             GAME DIR | a61552f15b089dd008af93546a21201149fcb5e8 |  962056a3 | /mnt/ebs_volume/steam/steamcmd/arma3/@zeus_enhanced
+18:01:28                                USP Gear & Uniforms | @usp_gear_uniforms_aio |      false |      false |             GAME DIR | a27d60f530145c82c760444075a7d9b249b7b4f8 |  ad3dba78 | /mnt/ebs_volume/steam/steamcmd/arma3/@usp_gear_uniforms_aio
+18:01:28                                               TFAR | @task_force_arrowhead_radio_beta |      false |      false |             GAME DIR | 7e7a578334a3bc2122fb67d22fb40345c8293243 |  b2d5bb27 | /mnt/ebs_volume/steam/steamcmd/arma3/@task_force_arrowhead_radio_beta
+18:01:28                                     SSG: Stubbhult |           @stubbhult |      false |      false |             GAME DIR | fac65259bc0f3d685b5ae1dae82e9416adea89fb |   9f18ddd | /mnt/ebs_volume/steam/steamcmd/arma3/@stubbhult
+18:01:28                          RHS: United States Forces |             @rhsusaf |      false |      false |             GAME DIR | 22dc683ee7645369b375f5d3a2db51a995658245 |  736ca0ba | /mnt/ebs_volume/steam/steamcmd/arma3/@rhsusaf
+18:01:28        RHS: Armed Forces of the Russian Federation |             @rhsafrf |      false |      false |             GAME DIR | c099f9533a1d61a33bef449594ec01c28661aa62 |  9f03db96 | /mnt/ebs_volume/steam/steamcmd/arma3/@rhsafrf
+18:01:28                                      LAMBS Turrets |       @lambs_turrets |      false |      false |             GAME DIR | 82a1349c2fad8a68bf668ebe618030e77ec6f750 |  31d6452a | /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_turrets
+18:01:28                                  LAMBS Suppression |   @lambs_suppression |      false |      false |             GAME DIR | d21f10f9205a2236d6c0b2ce3975dd0048b4e6c0 |  aff9d7a3 | /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_suppression
+18:01:28                                          LAMBS RPG |           @lambs_rpg |      false |      false |             GAME DIR | 8780fa217bf5791806c07cb5b8ed11db8cbb43e8 |  3421d286 | /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_rpg
+18:01:28                             LAMBS Danger.fsm 2.6.1 |    @lambs_danger_fsm |      false |      false |             GAME DIR | ca10ae45399b3640cb39fb0b9ca379938fdaa0bb |  92e2a26d | /mnt/ebs_volume/steam/steamcmd/arma3/@lambs_danger_fsm
+18:01:28                                           ITN Beta | @itn_illuminate_the_night |      false |      false |             GAME DIR | 5265ebaaf05d6f3c55c2c3fad107a95acfa06610 |  502cf585 | /mnt/ebs_volume/steam/steamcmd/arma3/@itn_illuminate_the_night
+18:01:28                               ITN Compat: RHS USAF | @itn_compat_rhs_usaf |      false |      false |             GAME DIR | 733cddc76268831228cd9c43e32248db18c77f1c |  417893ce | /mnt/ebs_volume/steam/steamcmd/arma3/@itn_compat_rhs_usaf
+18:01:28                         @ilbe_assault_pack_rewrite | @ilbe_assault_pack_rewrite |      false |      false |             GAME DIR | 915d3cf265b56c3d989b3a2f8e24e733b95c06c7 |  48124e95 | /mnt/ebs_volume/steam/steamcmd/arma3/@ilbe_assault_pack_rewrite
+18:01:28                                          @hmds_rhs |            @hmds_rhs |      false |      false |             GAME DIR | 1c548655c77dece68f85d5efd899633bdf4725c6 |  3dab4b2f | /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_rhs
+18:01:28                                        Kimi's HMDs |            @hmds_mod |      false |      false |             GAME DIR | ed2e08992c5e043d074576e7a29f2245cde5d61c |  b72808dd | /mnt/ebs_volume/steam/steamcmd/arma3/@hmds_mod
+18:01:28                               Hide Among The Grass | @hide_among_the_grass_hatg |      false |      false |             GAME DIR | d24d643431c5a6da6948788db8a5e8ebf33f4920 |  a40ccc70 | /mnt/ebs_volume/steam/steamcmd/arma3/@hide_among_the_grass_hatg
+18:01:28                              Gruppe Adler Trenches | @gruppe_adler_trenches |      false |      false |             GAME DIR | 1ee471476cc4b086991bb4817740f24cd560265b |   6cb8f01 | /mnt/ebs_volume/steam/steamcmd/arma3/@gruppe_adler_trenches
+18:01:28                           Enhanced Movement Rework | @enhanced_movement_rework |      false |      false |             GAME DIR | 8bf1a91aa4c72d994113cb594e0e57d03fab4f53 |  5d2b39a0 | /mnt/ebs_volume/steam/steamcmd/arma3/@enhanced_movement_rework
+18:01:28                                  Enhanced Movement |   @enhanced_movement |      false |      false |             GAME DIR | fbc1f582c89f11919f9c6ead5d842e6c1aea9b71 |  a47fddc8 | /mnt/ebs_volume/steam/steamcmd/arma3/@enhanced_movement
+18:01:28                           DUI - Squad Radar 1.11.1 |     @dui_squad_radar |      false |      false |             GAME DIR | 9a3ce9801c68a399d3ee73348e38014cb662acff |  2196cb62 | /mnt/ebs_volume/steam/steamcmd/arma3/@dui_squad_radar
+18:01:28                                 cTab NSWDG Edition |  @ctab_nswdg_edition |      false |      false |             GAME DIR | 4ac4d36c4d1397a78bab94bf236f2f0b38389661 |  83fb0ac3 | /mnt/ebs_volume/steam/steamcmd/arma3/@ctab_nswdg_edition
+18:01:28                               Crows Zeus Additions | @crows_zeus_additions |      false |      false |             GAME DIR | 0a898daa99d8d7fa3f3bda97e3fcb1670ae79d6f |  9739e516 | /mnt/ebs_volume/steam/steamcmd/arma3/@crows_zeus_additions
+18:01:28                                  @ch_view_distance |    @ch_view_distance |      false |      false |             GAME DIR | ff6e6b2693092b1318010caca04d09e3bf3e9bfa |  612abd41 | /mnt/ebs_volume/steam/steamcmd/arma3/@ch_view_distance
+18:01:28                      Community Base Addons v3.18.1 |              @cba_a3 |      false |      false |             GAME DIR | b256a972cc3a9bde93988e243ad5db85887dece0 |  7de4bd5c | /mnt/ebs_volume/steam/steamcmd/arma3/@cba_a3
+18:01:28                                     @bettir_legacy |       @bettir_legacy |      false |      false |             GAME DIR | 27761e7bb08b6aaf90cea70674a4f853c2c9af14 |  a6fdd435 | /mnt/ebs_volume/steam/steamcmd/arma3/@bettir_legacy
+18:01:28                                   Better Inventory |    @better_inventory |      false |      false |             GAME DIR | 07f27b642dc965a159997583bba5b8d65dd92f8f |  a930c0ba | /mnt/ebs_volume/steam/steamcmd/arma3/@better_inventory
+18:01:28                               BackpackOnChestRedux | @backpackonchest_redux |      false |      false |             GAME DIR | 79610422b3a49352c69635a83086b1c8a8b93fd8 |  7e735181 | /mnt/ebs_volume/steam/steamcmd/arma3/@backpackonchest_redux
+18:01:28                          Anthrax's OPFOR LDF [RHS] | @anthraxs_opfor_ldf_rhs |      false |      false |             GAME DIR | d9c01cceef921309bb4be81fd8490f770e70cd72 |  5cf28cea | /mnt/ebs_volume/steam/steamcmd/arma3/@anthraxs_opfor_ldf_rhs
+18:01:28                 Advanced Combat Environment 3.18.1 |                 @ace |      false |      false |             GAME DIR | b0be1db39a2d255c468efde35c2812bf9357a8a7 |  8dd11dd5 | /mnt/ebs_volume/steam/steamcmd/arma3/@ace
+18:01:28                                 @aarens_sound_core |   @aarens_sound_core |      false |      false |             GAME DIR | 985a550498ca51d1eb9c068da9e1d058cc6359b5 |  ab2671dd | /mnt/ebs_volume/steam/steamcmd/arma3/@aarens_sound_core
+18:01:28                              @aarens_blast_effects | @aarens_blast_effects |      false |      false |             GAME DIR | 748713b7ced82a8796fe41600448be52eee42ded |  41285b52 | /mnt/ebs_volume/steam/steamcmd/arma3/@aarens_blast_effects
+18:01:28                         @150th_languard_zeus_tools | @150th_languard_zeus_tools |      false |      false |             GAME DIR | a2573da9da7dcd216eb3c6adef71cea26e0d5322 |  e1d350cb | /mnt/ebs_volume/steam/steamcmd/arma3/@150th_languard_zeus_tools
+18:01:28                                  Arma 3 Art of War |                  aow |       true |       true |             GAME DIR | 329ef1f9488d688f46eb3b085228282b9da8356d |  3b04521a | /mnt/ebs_volume/steam/steamcmd/arma3/aow
+18:01:28                          Arma 3 Contact (Platform) |                enoch |       true |       true |             GAME DIR | 0768941f0aa942d08a108952d75f3d57d06a0174 |  1c7b582e | /mnt/ebs_volume/steam/steamcmd/arma3/enoch
+18:01:28                                       Arma 3 Tanks |                 tank |       true |       true |             GAME DIR | 57da5a0adf1e40fb183bc3bab657c1ea55827c91 |  c1f01b2d | /mnt/ebs_volume/steam/steamcmd/arma3/tank
+18:01:28                                     Arma 3 Tac-Ops |               tacops |       true |       true |             GAME DIR | 7d68ef7fae3cd55629f575734cc695b6fa2a8bde |  7800abb4 | /mnt/ebs_volume/steam/steamcmd/arma3/tacops
+18:01:28                                 Arma 3 Laws of War |               orange |       true |       true |             GAME DIR | 02ec253f2f9ef2f174e6734ba1d70eaeb5c897b1 |  97c7fc9e | /mnt/ebs_volume/steam/steamcmd/arma3/orange
+18:01:28                                      Arma 3 Malden |                 argo |       true |       true |             GAME DIR | 083c93ff114c80c422a996be688fb1716ef29507 |  422aa3b9 | /mnt/ebs_volume/steam/steamcmd/arma3/argo
+18:01:28                                        Arma 3 Jets |                 jets |       true |       true |             GAME DIR | 24291e1e8c8e6516483abe11436bfe0832a4bdd9 |  e27343ad | /mnt/ebs_volume/steam/steamcmd/arma3/jets
+18:01:28                                        Arma 3 Apex |            expansion |       true |       true |             GAME DIR | 7c802955abc4a910e967c3b36f9787b449e528bb |  3576c65c | /mnt/ebs_volume/steam/steamcmd/arma3/expansion
+18:01:28                                    Arma 3 Marksmen |                 mark |       true |       true |             GAME DIR | 64c8916a10d9b976f618b0a83c37c846b771e180 |  34d6b00a | /mnt/ebs_volume/steam/steamcmd/arma3/mark
+18:01:28                                 Arma 3 Helicopters |                 heli |       true |       true |             GAME DIR | 7e3707fe97d1d1dc17c9563b02590c226c1efeca |  86fc965a | /mnt/ebs_volume/steam/steamcmd/arma3/heli
+18:01:28                                       Arma 3 Karts |                 kart |       true |       true |             GAME DIR | 7a722f687a98402a1535d8e8f1bd0eacea195cad |  f1e8f0bd | /mnt/ebs_volume/steam/steamcmd/arma3/kart
+18:01:28                                        Arma 3 Zeus |              curator |       true |       true |             GAME DIR | d708cf74c58bb74a952935ffb88c0c68b157e735 |  bac23169 | /mnt/ebs_volume/steam/steamcmd/arma3/curator
+18:01:28                                             Arma 3 |                   A3 |       true |       true |    NOT FOUND (Empty) |                                          |           | 
+18:01:28 ==========================================================================================================================================================================================================
+18:01:28 InitSound ...
+18:01:28 InitSound - complete
+18:01:28 Dedicated client created.
+18:01:28 PhysX3 SDK Init started ...
+18:01:28 PhysX3 SDK Init ended.
+18:01:30 [CBA] (xeh) INFO: [0,19.191,0] PreStart started.
+18:01:30 [CBA] (settings) INFO: Userconfig: Ignored.
+18:01:33 [ACE] (medical) INFO: Checking uniforms for correct medical hitpoints [4963 units]
+18:01:33 [CBA] (xeh) INFO: [0,22.559,0] PreStart finished.
+18:01:33 [CBA] (settings) INFO: Userconfig: Ignored.
+18:01:33 Attempt to override final function - cba_settings_userconfig
+18:01:37 Loading movesType CfgGesturesMale
+18:01:37 MovesType CfgGesturesMale load time 136.0 ms
+18:01:37 Loading movesType CfgMovesMaleSdr
+18:01:45 Warning: looped for animation: a3\anims_f_epa\data\anim\sdr\cts\hubcleaned\briefing\hubbriefing_loop.rtm differs (looped now 0)! MoveName: hubbriefing_ext
+18:01:47 Warning: looped for animation: a3\anims_f_epa\data\anim\sdr\cts\hubcleaned\spectator\hubspectator_stand.rtm differs (looped now 1)! MoveName: hubspectator_stand_contact
+18:01:47 MovesType CfgMovesMaleSdr load time 9492.0 ms
+18:01:47 Global namespace not passed during: false
+18:01:47 Global namespace not passed during: false
+18:01:47 Error in expression <false>
+18:01:47   Error position: <false>
+18:01:47   Error Local variable in global space
+18:01:47 Global namespace not passed during: false
+18:01:47 Global namespace not passed during: false
+18:01:47 Error in expression <false>
+18:01:47   Error position: <false>
+18:01:47   Error Local variable in global space
+18:01:47 Client connected: 127.0.0.1:2302
+18:01:47  > headlessclient uses modified data file
+18:01:47  > Player headlessclient connecting
+18:01:48  > Player headlessclient connected
+18:01:48 Loading profile "HC1"
+18:01:48 Starting mission:
+18:01:48  Mission file: operation_dark_star (__CUR_MP)
+18:01:48  Mission world: stubbhult
+18:01:48  Mission directory: mpmissions\__CUR_MP.stubbhult\
+18:01:49 Land_PipeFence_04_m_gate_r_F: door_1_handle_rot_1 - unknown animation source door_1_nosound_source
+18:01:49 Land_PipeFence_04_m_gate_r_F: door_1_handle_rot_2 - unknown animation source door_1_nosound_source
+18:01:49 Strange convex component61 in a3\structures_f_enoch\military\barracks\barracks_06_f.p3d:geometryView
+18:01:50 Strange convex component57 in a3\structures_f_enoch\military\airfield\servicehangar_01_r_f.p3d:geometryPhys
+18:01:50 Strange convex component57 in a3\structures_f_enoch\military\airfield\servicehangar_01_r_f.p3d:geometryFire
+18:01:50 Land_PipeFence_03_m_gate_r_F: door_1_handle_rot_1 - unknown animation source door_1_nosound_source
+18:01:50 Land_PipeFence_03_m_gate_r_F: door_1_handle_rot_2 - unknown animation source door_1_nosound_source
+18:01:51 Bad simulation shipx, type Land_BuoyBig_F (class=vehicle), a3\structures_f\naval\buoys\buoybig_f.p3d
+18:01:52 Fresnel k must be >0, given n=1,k=0
+18:01:52 [CBA] (xeh) INFO: [6403,42.004,0] PreInit started. v3.18.1.241014
+18:01:52 [CBA] (settings) INFO: Reading settings from settings file.
+18:01:52 [CBA] (settings) INFO: Finished reading settings from settings file.
+18:01:53 [ACE] (common) INFO: Parsed Settings Configs [0.0 ms]
+18:01:53 [CBA] (xeh) INFO: [6403,42.334,0] PreInit finished.
+18:01:53 C_Truck_02_fuel_F: door_lf - unknown animation source door (defined in AnimationSources::Door_LF)
+18:01:53 C_Truck_02_fuel_F: door_rf - unknown animation source door (defined in AnimationSources::Door_RF)
+18:01:53 C_Truck_02_fuel_F: door_lf - unknown animation source door (defined in AnimationSources::Door_LF)
+18:01:53 C_Truck_02_fuel_F: door_rf - unknown animation source door (defined in AnimationSources::Door_RF)
+18:01:53 C_Van_02_medevac_F: door_1_source - unknown animation source door (defined in AnimationSources::Door_1_source)
+18:01:53 C_Van_02_medevac_F: door_2_source - unknown animation source door (defined in AnimationSources::Door_2_source)
+18:01:53 C_Van_02_medevac_F: door_3_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_medevac_F: door_3b_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_medevac_F: door_4_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_4a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_5_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_5a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_1_source - unknown animation source door (defined in AnimationSources::Door_1_source)
+18:01:53 C_Van_02_medevac_F: door_2_source - unknown animation source door (defined in AnimationSources::Door_2_source)
+18:01:53 C_Van_02_medevac_F: door_3_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_medevac_F: door_3b_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_medevac_F: door_4_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_4a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_5_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_medevac_F: door_5a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Truck_02_transport_F: door_lf - unknown animation source door (defined in AnimationSources::Door_LF)
+18:01:53 C_Truck_02_transport_F: door_rf - unknown animation source door (defined in AnimationSources::Door_RF)
+18:01:53 C_Truck_02_transport_F: door_lf - unknown animation source door (defined in AnimationSources::Door_LF)
+18:01:53 C_Truck_02_transport_F: door_rf - unknown animation source door (defined in AnimationSources::Door_RF)
+18:01:53 C_Truck_02_transport_F: door_lf - unknown animation source door (defined in AnimationSources::Door_LF)
+18:01:53 C_Truck_02_transport_F: door_rf - unknown animation source door (defined in AnimationSources::Door_RF)
+18:01:53 C_Truck_02_transport_F: door_lf - unknown animation source door (defined in AnimationSources::Door_LF)
+18:01:53 C_Truck_02_transport_F: door_rf - unknown animation source door (defined in AnimationSources::Door_RF)
+18:01:53 C_Van_02_transport_F: door_1_source - unknown animation source door (defined in AnimationSources::Door_1_source)
+18:01:53 C_Van_02_transport_F: door_2_source - unknown animation source door (defined in AnimationSources::Door_2_source)
+18:01:53 C_Van_02_transport_F: door_3_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_transport_F: door_3b_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_transport_F: door_4_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_4a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_5_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_5a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_1_source - unknown animation source door (defined in AnimationSources::Door_1_source)
+18:01:53 C_Van_02_transport_F: door_2_source - unknown animation source door (defined in AnimationSources::Door_2_source)
+18:01:53 C_Van_02_transport_F: door_3_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_transport_F: door_3b_source - unknown animation source door (defined in AnimationSources::Door_3_source)
+18:01:53 C_Van_02_transport_F: door_4_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_4a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_5_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 C_Van_02_transport_F: door_5a_source - unknown animation source door (defined in AnimationSources::Door_4_source)
+18:01:53 RHS_Mi8t_civilian: hide_winch - unknown animation source hide_winch
+18:01:53 RHS_Mi8t_civilian: mi8_hook_hide - unknown animation source mi8_hook_hide
+18:01:53 RHS_Mi8t_civilian: hide_antennas - unknown animation source antennas_hide
+18:01:53 Strange convex component26 in a3\drones_f\air_f_gamma\uav_02\uav_02_f.p3d:geometryView
+18:01:53 Strange convex component02 in a3\weapons_f_enoch\pistols\esd_01\muzzle_antenna_01_f.p3d:geometryView
+18:01:54 Error in expression <HitEngine>
+18:01:54   Error position: <HitEngine>
+18:01:54   Error Undefined variable in expression: hitengine
+18:01:54 Error compiling 'HitEngine' in 'hithull'
+18:01:54 RHS_MELB_MH6M: pylon1_hide - unknown animation source pylonisempty.1
+18:01:54 RHS_MELB_MH6M: pylon4_hide - unknown animation source pylonisempty.4
+18:01:54 RHS_MELB_MH6M: pylon2_hide - unknown animation source pylonisempty.2
+18:01:54 RHS_MELB_MH6M: pylon3_hide - unknown animation source pylonisempty.3
+18:01:54 RHS_MELB_MH6M: extshortl_hide - unknown animation source extlongl
+18:01:54 RHS_MELB_MH6M: extlongl_unhide - unknown animation source extlongl
+18:01:54 RHS_MELB_MH6M: unimountl_move - unknown animation source extlongl
+18:01:54 RHS_MELB_MH6M: extshortr_hide - unknown animation source extlongr
+18:01:54 RHS_MELB_MH6M: extlongr_unhide - unknown animation source extlongr
+18:01:54 RHS_MELB_MH6M: unimountr_move - unknown animation source extlongr
+18:01:54 Error in expression <HitEngine>
+18:01:54   Error position: <HitEngine>
+18:01:54   Error Undefined variable in expression: hitengine
+18:01:54 Error compiling 'HitEngine' in 'hithull'
+18:01:54 B_Truck_01_ammo_F: mirror_l_hide - unknown animation source mirror_l_hide
+18:01:54 B_Truck_01_fuel_F: mirror_l_hide - unknown animation source mirror_l_hide
+18:01:54 B_Truck_01_Repair_F: mirror_l_hide - unknown animation source mirror_l_hide
+18:01:54 C_Offroad_01_covered_F: gunnerlf - unknown animation source gunner_lf_turn (defined in AnimationSources::gunner_lf_turn)
+18:01:54 C_Offroad_01_covered_F: gunnerlf_pos - unknown animation source gunner_lf_turn (defined in AnimationSources::gunner_lf_turn)
+18:01:54 C_Offroad_01_covered_F: gunnerrf - unknown animation source gunner_rf_turn (defined in AnimationSources::gunner_rf_turn)
+18:01:54 C_Offroad_01_covered_F: gunnerrf_pos - unknown animation source gunner_rf_turn (defined in AnimationSources::gunner_rf_turn)
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 1-1:1 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-2:4 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Bravo 1-2:5 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Bravo 1-2:6 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Bravo 1-2:7 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Bravo 1-2:8 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Bravo 1-2:9 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-1:10 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-1:11 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-1:12 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-6:13 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-6:14 REMOTE
+18:01:54 Setting invalid pitch 0.0000 for L Alpha 3-6:15 REMOTE
+18:01:54 Attempt to override final function - tfar_fnc_missingmodmessage
+18:01:55 Setting invalid pitch 0.0000 for HC1
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_initplayerlocal
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_initplayerserver
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_initcurator
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_missiontasks
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_missionconversations
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_initplayerlocal
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_initplayerserver
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_initcurator
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_missiontasks
+18:01:55 Attempt to override final function - bis_fnc_modulemptypegamemaster_missionconversations
+18:01:55 Strange convex component27 in a3\structures_f_enoch\cultural\castleruins\castleruins_01_bastion_f.p3d:geometryPhys
+18:01:55 Strange convex component28 in a3\structures_f_enoch\cultural\castleruins\castleruins_01_bastion_f.p3d:geometryPhys
+18:01:55 Strange convex component38 in a3\structures_f_enoch\cultural\castleruins\castleruins_01_bastion_f.p3d:geometryPhys
+18:01:59  Mission id: e2d48a6c5cf091c5bdab201d0b16f558e52e3e19
+18:01:59 [CBA] (xeh) INFO: [6436,48.395,44.653] PostInit started. MISSIONINIT: missionName=operation_dark_star, missionVersion=54, worldName=stubbhult, isMultiplayer=true, isServer=false, isDedicated=false, CBA_isHeadlessClient=true, hasInterface=false, didJIP=true
+18:01:59 [CBA] (versioning) INFO: [6436,48.481,44.653] VERSIONING:cba=3.18.1.241014, zen=1.15.1.36, ace=3.18.1.91, tfar=1.-1.0.334, ctab=2.2.2.1, zhc=1.1.8.47
+18:01:59 [ACE] (common) INFO: ACE is version 3.18.1.91 - CBA is version 3.18.1.241014 (min required 3.16.0)
+18:01:59 [ACE] (common) INFO: Operating system does not support extensions
+18:01:59 [CBA] (xeh) INFO: [6436,48.607,44.653] PostInit finished.
+18:01:59 [CBA] (optics) INFO: Scripted camera restarted.
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 CallExtension 'task_force_radio_pipe' could not be found
+18:01:59 [ACE] (common) INFO: Settings initialized.
+18:01:59 [ACE] (common) INFO: 134 delayed functions running.
+18:01:59 [ACE] (refuel) WARNING: World stubbhult: ace_refuel_positions is not configured; can load slower
+18:02:00 [CBA] (versioning) INFO: [6437,49.082,44.753] VERSIONING_SERVER:cba=3.18.1.241014, zen=1.15.1.36, ace=3.18.1.91, tfar=1.-1.0.334, ctab=2.2.2.1, zhc=1.1.8.47
+18:29:58  > A. Weenie uses modified data file
+18:29:58  > Player A. Weenie connecting
+18:29:59  > Player A. Weenie connected
+18:33:42 7129e7212000# 1401599: o_soldier_01.p3d O_Soldier_F REMOTE: Getting out while IsMoveOutInProgress
+18:34:01 7129e6ff1000# 1401641: o_soldier_01.p3d O_Soldier_F REMOTE: Getting out while IsMoveOutInProgress
+18:35:18 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:35:44 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:36:14 ACM_O_LIV_MI8: hide_winch - unknown animation source hide_winch
+18:36:14 ACM_O_LIV_MI8: mi8_hook_hide - unknown animation source mi8_hook_hide
+18:36:14 ACM_O_LIV_MI8: hide_antennas - unknown animation source antennas_hide
+18:36:15 Ragdoll - loading of ragdoll source "Soldier" started.
+18:36:15 Ragdoll - loading of ragdoll source "Soldier" finished successfully.
+18:38:00 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:38:05 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:38:17 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:39:39 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:41:14 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:41:36 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:42:51 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:43:53 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:44:07 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:44:11 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:45:01 Client: Object 5:861 (type Type_98) not found.
+18:45:01 Client: Object 5:861 (type Type_466) not found.
+18:45:01 Client: Object 5:861 (type Type_97) not found.
+18:45:54 Ref to nonnetwork object 7129dbf07000# 1403579: rhs_tigrm.p3d ACM_O_LIV_tigr_Hatch REMOTE
+18:47:02 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:49:24 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:51:51 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:52:10 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:53:42 ACM_O_LIV_Offroad_01_comms_F: gunnerlf - unknown animation source gunner_lf_turn (defined in AnimationSources::gunner_lf_turn)
+18:53:42 ACM_O_LIV_Offroad_01_comms_F: gunnerlf_pos - unknown animation source gunner_lf_turn (defined in AnimationSources::gunner_lf_turn)
+18:53:42 ACM_O_LIV_Offroad_01_comms_F: gunnerrf - unknown animation source gunner_rf_turn (defined in AnimationSources::gunner_rf_turn)
+18:53:42 ACM_O_LIV_Offroad_01_comms_F: gunnerrf_pos - unknown animation source gunner_rf_turn (defined in AnimationSources::gunner_rf_turn)
+18:53:43 7129da09f000# 1405660: i_e_soldier_01_f.p3d ACM_RHS_Liv_Soldier REMOTE: Getting out while IsMoveOutInProgress
+18:54:27 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+18:56:42 [ACE] (medical_statemachine) WARNING: enteredStateDeath: State transition on dead or null unit - O Alpha 4-5:2
+18:56:49 7129d8625000# 1406103: c_poloshirt.p3d C_man_1 REMOTE: Getting out while IsMoveOutInProgress
+18:57:20 7129d7c87000# 1406175: c_poloshirt.p3d C_man_1 REMOTE: Getting out while IsMoveOutInProgress
+18:58:47 [ZHC] (offload) INFO: Regarrisoning group timed out
+18:59:04 [ZHC] (offload) INFO: Regarrisoning group timed out
+18:59:52  > LSgt. Datte uses modified data file
+18:59:53  > Player LSgt. Datte connecting
+19:00:00  > Player LSgt. Datte connected
+19:00:02  > OC.Stealth09 [GRID] uses modified data file
+19:00:02  > Player OC.Stealth09 [GRID] connecting
+19:00:04  > Player OC.Stealth09 [GRID] connected
+19:01:25  > C. Maj. Dagger uses modified data file
+19:01:25  > Player C. Maj. Dagger connecting
+19:01:31  > Player C. Maj. Dagger connected
+19:01:35  > Jam uses modified data file
+19:01:35  > Player Jam connecting
+19:01:37  > Player Jam connected
+19:02:40  > JJon uses modified data file
+19:02:40  > Player JJon connecting
+19:02:42  > Player JJon connected
+19:02:44 GlassType: unknown type: mask_tan
+19:02:57  > SCpl.Genos uses modified data file
+19:02:57  > Player SCpl.Genos connecting
+19:02:58  > Player SCpl.Genos connected
+19:03:13 [ZHC] (offload) INFO: Regarrisoning group timed out
+19:03:16  > Weenie
+19:03:21  > Can you check the mission difficulty?
+19:03:21  > Loxz uses modified data file
+19:03:21  > Player Loxz connecting
+19:03:22  > Player Loxz connected
+19:03:23  > I think it's on recruit
+19:04:13  > Someone forgot to set the server settings
+19:04:16  > Unless that was me
+19:04:27  > And the diving kit arsenal is lacking diving shit
+19:04:34  > JEgn.Jett uses modified data file
+19:04:34  > Player JEgn.Jett connecting
+19:04:39  > Player JEgn.Jett connected
+19:04:41  > Restart to fix server settings??
+19:04:54  > We'll see what they want to do
+19:04:57  > k
+19:05:13  > 1.Col.Buzzkill uses modified data file
+19:05:13  > Player 1.Col.Buzzkill connecting
+19:05:15 Speaker ACE_NoVoice not found in CfgVoiceTypes
+19:05:37  > Stop shooting
+19:05:38  > Player 1.Col.Buzzkill connected
+19:06:09  > LSgt. Datte was killed
+19:06:44  > EFC.DeadEye uses modified data file
+19:06:44  > Player EFC.DeadEye connecting
+19:06:46  > Player EFC.DeadEye connected
+19:08:19  > Lgn. Deimos uses modified data file
+19:08:19  > Player Lgn. Deimos connecting
+19:08:58 Cannot load sound 'squad_wpsounds\rifles\m4&m16\sounds\zfiremode.ogg'
+19:08:58 Cannot load sound 'squad_wpsounds\rifles\m4&m16\sounds\zfiremode.ogg'
+19:08:58 Cannot load sound 'squad_wpsounds\rifles\m4&m16\sounds\zfiremode.ogg'
+19:09:08  > roudr uses modified data file
+19:09:08  > Player roudr connecting
+19:09:09  > Player roudr connected
+19:09:10  > Player Lgn. Deimos connected
+19:09:12  > Player Lgn. Deimos disconnected
+19:09:23  > Lgn. Deimos uses modified data file
+19:09:23  > Player Lgn. Deimos connecting
+19:09:49  > Player roudr disconnected
+19:10:11  > Player Lgn. Deimos connected
+19:10:26  > Lgn. Rush uses modified data file
+19:10:26  > Player Lgn. Rush connecting
+19:10:32  > Player Lgn. Rush connected
+19:10:36 Array mat in bin\config.bin/CfgVehicles/USP_G3C_KP_MX/Wounds/ not multiply of 3
+19:11:20  > Nomad 1-1 uses modified data file
+19:11:20  > Player Nomad 1-1 connecting
+19:11:22  > Player Nomad 1-1 connected
+19:11:30  > osman uses modified data file
+19:11:30  > Player osman connecting
+19:11:32  > Player osman connected
+19:12:05 Setting invalid pitch 0.0000 for L Charlie 2-5:1 REMOTE
+19:14:34  > Player Jam disconnected
+19:15:04  > Cap uses modified data file
+19:15:04  > Player Cap connecting
+19:15:05  > Player Cap connected
+19:16:09  > Huds0nCta uses modified data file
+19:16:09  > Player Huds0nCta connecting
+19:16:10  > Player Huds0nCta connected
