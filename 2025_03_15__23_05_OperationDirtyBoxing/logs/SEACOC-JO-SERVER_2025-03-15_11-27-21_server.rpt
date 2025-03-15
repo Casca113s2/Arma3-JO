@@ -1,0 +1,39 @@
+18:27:21 SteamAPI initialization failed. Steam features won't be accessible!
+18:27:21 Initializing stats manager.
+sh: 1: /sbin/ifconfig: not found
+18:27:21 Stats config disabled.
+18:27:21 sessionID: d1c4512b0fb6fd6f9b3137798eaafc1172f0c291
+18:27:26 Item STR_KC135R_ENG listed twice
+18:27:26  ➥ Context: usaf_kc135\stringtable.csv
+18:27:26 Item STR_USAF_MFD_MAP_SWITCH listed twice
+18:27:26  ➥ Context: usaf_main\mfd_map_exp\stringtable.xml
+18:27:26 Item STR_USAF_MFD_MAP_TOGGLE_ROT listed twice
+18:27:26  ➥ Context: usaf_main\mfd_map_exp\stringtable.xml
+18:27:26 Item STR_USAF_MFD_MAP_INCREASE_ZOOM listed twice
+18:27:26  ➥ Context: usaf_main\mfd_map_exp\stringtable.xml
+18:27:26 Item STR_USAF_MFD_MAP_DECREASE_ZOOM listed twice
+18:27:26  ➥ Context: usaf_main\mfd_map_exp\stringtable.xml
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Original>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><English>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Czech>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Russian>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_SOMEONE_USING_PHONE"><Italian>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Original>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><English>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Czech>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Russian>
+18:27:26 Unexpected stringtable format inside <Text ID="STR_TFAR_EXTERNAL_INTERCOM_HEADGEAR_NOT_WIRELESS_CAPABLE"><Italian>
+18:27:26 Unsupported language English in stringtable
+18:27:26  ➥ Context: z\tfar\addons\external_intercom\stringtable.xml
+18:27:26 Unsupported language English in stringtable
+18:27:26  ➥ Context: rhsafrf\addons\rhs_main\stringtable.xml
+18:27:26 Unsupported language English in stringtable
+18:27:26  ➥ Context: ca\language\stringtable.xml
+18:27:26 Unsupported language English in stringtable
+18:27:26  ➥ Context: CUP\Terrains\cup_terrains_compositions\stringtable.xml
+18:27:26 Unsupported language English in stringtable
+18:27:26  ➥ Context: CUP\Terrains\cup_terrains_music\stringtable.xml
+18:27:26 Unsupported language English in stringtable
+18:27:26  ➥ Context: CHVD\stringtable.xml
+18:27:26 Conflicting addon USAF_AGM88 in 'usaf_missilebox_c\usaf_agm88_c\', previous definition in 'usaf_missilebox\usaf_agm88\'
+18:27:26 Conflicting addon USAF_AARGMER in 'usaf_missilebox_c\usaf_aargmer\', previous definition in 'usaf_missilebox\usaf_aargmer\'

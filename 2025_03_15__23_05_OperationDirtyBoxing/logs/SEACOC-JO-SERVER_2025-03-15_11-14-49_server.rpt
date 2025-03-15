@@ -1,0 +1,23 @@
+18:14:49 SteamAPI initialization failed. Steam features won't be accessible!
+18:14:50 Initializing stats manager.
+sh: 1: /sbin/ifconfig: not found
+18:14:50 Stats config disabled.
+18:14:50 sessionID: 275e5b8fe976a4412bd2358818e672ab109c1d51
+18:14:54 Warning Message: The filename '/mnt/ebs_volume/steam/steamcmd/arma3/@OFT_PLAYER_TRACK_LOG\addons\PLAYER_TRACK_LOG.pbo' is not lowercase. You have to convert it!
+18:14:54 ErrorMessage: Cannot open file '/mnt/ebs_volume/steam/steamcmd/arma3/@OFT_PLAYER_TRACK_LOG\addons\player_track_log'
+18:14:54 Application terminated intentionally
+18:14:54 ../lib/Network/networkServer.cpp ClearNetServer:NOT IMPLEMENTED - briefing!
+Cannot open file '/mnt/ebs_volume/steam/steamcmd/arma3/@OFT_PLAYER_TRACK_LOG\addons\player_track_log'
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Critical:Destroying running thread!
+18:14:55 Extensions:
+The filename '/mnt/ebs_volume/steam/steamcmd/arma3/@OFT_PLAYER_TRACK_LOG\addons\PLAYER_TRACK_LOG.pbo' is not lowercase. You have to convert it!
